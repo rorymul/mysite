@@ -1,5 +1,5 @@
 ---
-title: "<strong>ePortfolio</strong> by Rory Mulhern"
+title: "**bold**ePortfolio**bold** by Rory Mulhern"
 ---
 
 This is a Quarto website.
