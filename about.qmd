@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: images/headshot.png
+image: headshot.png
 about:
   template: jolla
   links: # create buttons
