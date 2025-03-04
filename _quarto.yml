@@ -6,6 +6,8 @@ website:
   title: "Mysite"
   favicon: favicon-96x96.png
   navbar:
+    title: false
+    logo: favicon-96x96.png
     left:
       - href: index.qmd
         text: Home
