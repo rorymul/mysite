@@ -1,5 +1,11 @@
 ---
-title: "About"
+image: /Users/mulhr/mysite-1/images/headshot.png
+about:
+  template: jolla
+  links: # create buttons
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rorymulhern/
 ---
 
 About this site
