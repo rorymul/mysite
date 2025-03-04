@@ -1,5 +1,5 @@
 ---
-title: "Rory Mulhern"
+title: "About Me"
 image: headshot.png
 about:
   template: jolla
