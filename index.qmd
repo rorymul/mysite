@@ -1,6 +1,5 @@
 ---
 title: "Welcome to My ePortfolio"
-image: headshot.png
 page-layout: full
 theme:
   light: flatly
