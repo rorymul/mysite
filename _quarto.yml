@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mysite"
+  favicon: favicon.png
   navbar:
     background: primary
     search: false
