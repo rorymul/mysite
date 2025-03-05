@@ -4,7 +4,8 @@ page-layout: full
 theme:
   light: flatly
   dark: darkly
-search: false
+navbar:
+    search: false
 ---
 
 This is a Quarto website. Please, please, please work
