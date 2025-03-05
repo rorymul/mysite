@@ -1,5 +1,9 @@
 ---
-title: "My ePortfolio"
+title: "Welcome to My Cool Website"
+page-layout: full
+theme:
+  light: flatly
+  dark: darkly
 ---
 
 This is a Quarto website. Please, please, please work
