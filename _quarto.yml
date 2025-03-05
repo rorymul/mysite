@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Mysite"
-  favicon: favicon-96x96.png
   navbar:
+    background: primary
     search: false
     title: false
     left:
@@ -21,6 +21,8 @@ format:
   html:
     theme:
       light: flatly
+      dark: darkly
+    page-layout: full
     css: styles.css
     toc: true
 
