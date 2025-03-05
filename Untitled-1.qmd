@@ -24,9 +24,6 @@ ax.grid(True)
 plt.show()
 ```
 
-```{python}
-pip install quarto-cli
-```
 
 
 
