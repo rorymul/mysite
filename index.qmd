@@ -14,46 +14,19 @@ Here are some videos I find interesting:
 
 <div class="video-grid">
   
-  <div class="video-card" onclick="openModal('https://www.youtube.com/embed/hMW_pT7w-Y8')">
+  <a href="https://www.youtube.com/watch?v=hMW_pT7w-Y8" target="_blank" class="video-card">
+    <img src="ESG.jpg" alt="Video 1 Thumbnail">
     <div class="video-title">Who Killed the ESG Party</div>
-    <img src="ESG.jpg" alt="Who Killed the ESG Party">
-  </div>
+  </a>
 
-  <div class="video-card" onclick="openModal('https://www.youtube.com/embed/VIDEO_ID_2')">
-    <div class="video-title">Title of Video 2</div>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank" class="video-card">
     <img src="image2.jpg" alt="Video 2 Thumbnail">
-  </div>
+    <div class="video-title">Title of Video 2</div>
+  </a>
 
-  <div class="video-card" onclick="openModal('https://www.youtube.com/embed/VIDEO_ID_3')">
-    <div class="video-title">Title of Video 3</div>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank" class="video-card">
     <img src="image3.jpg" alt="Video 3 Thumbnail">
-  </div>
+    <div class="video-title">Title of Video 3</div>
+  </a>
 
 </div>
-
-<!-- Video Popup Modal -->
-<div id="videoModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <iframe id="videoFrame" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-<!-- Video Popup Modal -->
-<div id="videoModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <iframe id="videoFrame" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-
-<script>
-  function openModal(videoUrl) {
-      document.getElementById("videoFrame").src = videoUrl;
-      document.getElementById("videoModal").style.display = "flex";
-  }
-
-  function closeModal() {
-      document.getElementById("videoFrame").src = "";
-      document.getElementById("videoModal").style.display = "none";
-  }
-</script>
