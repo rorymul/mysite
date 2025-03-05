@@ -1,5 +1,8 @@
 ---
 title: "Quarto Test"
+theme:
+  light: flatly
+
 jupyter: python3
 ---
 

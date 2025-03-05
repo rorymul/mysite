@@ -1,6 +1,8 @@
 ---
 title: "About Me"
 image: headshot.png
+theme:
+  light: flatly
 about:
   template: jolla
   links: # create buttons

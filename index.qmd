@@ -3,7 +3,6 @@ title: "Welcome to My ePortfolio"
 page-layout: full
 theme:
   light: flatly
-  dark: darkly
 navbar:
     search: false
 ---
