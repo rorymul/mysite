@@ -8,10 +8,4 @@ navbar:
     search: false
 ---
 
-This is a Quarto website. Please, please, please work
-
-why you not working!!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-step
+This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.
