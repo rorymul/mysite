@@ -7,6 +7,7 @@ theme:
 
 This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.
 
+
 # Interesting Videos 🎥
 
 Here are some videos I find interesting:
@@ -30,6 +31,13 @@ Here are some videos I find interesting:
 
 </div>
 
+<!-- Video Popup Modal -->
+<div id="videoModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <iframe id="videoFrame" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 <!-- Video Popup Modal -->
 <div id="videoModal" class="modal">
   <div class="modal-content">
