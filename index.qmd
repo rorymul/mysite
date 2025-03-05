@@ -6,3 +6,27 @@ theme:
 ---
 
 This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.
+
+
+# Interesting Videos 🎥
+
+Here are some videos I find interesting:
+
+<div class="video-grid">
+  
+  <a href="https://www.youtube.com/watch?v=hMW_pT7w-Y8" target="_blank" class="video-card">
+    <img src="ESG.jpg" alt="Video 1 Thumbnail">
+    <div class="video-title">Who Killed the ESG Party</div>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank" class="video-card">
+    <img src="image2.jpg" alt="Video 2 Thumbnail">
+    <div class="video-title">Title of Video 2</div>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank" class="video-card">
+    <img src="image3.jpg" alt="Video 3 Thumbnail">
+    <div class="video-title">Title of Video 3</div>
+  </a>
+
+</div>
