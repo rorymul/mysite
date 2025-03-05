@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Welcome to My ePortfolio",
     "section": "",
-    "text": "This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.\n\nInteresting Videos 🎥\nHere are some videos I find interesting:\n\n\n&lt;div class=\"video-title\"&gt;Who Killed the ESG Party&lt;/div&gt;\n&lt;img src=\"ESG.jpg\" alt=\"Who Killed the ESG Party\"&gt;\n\n\n&lt;div class=\"video-title\"&gt;Title of Video 2&lt;/div&gt;\n&lt;img src=\"image2.jpg\" alt=\"Video 2 Thumbnail\"&gt;\n\n\n&lt;div class=\"video-title\"&gt;Title of Video 3&lt;/div&gt;\n&lt;img src=\"image3.jpg\" alt=\"Video 3 Thumbnail\"&gt;\n\n\n\n\n\n&lt;span class=\"close\" onclick=\"closeModal()\"&gt;&times;&lt;/span&gt;\n&lt;iframe id=\"videoFrame\" width=\"560\" height=\"315\" src=\"\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;"
+    "text": "This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.\n\nInteresting Videos 🎥\nHere are some videos I find interesting:\n\n \n\nWho Killed the ESG Party\n\n\n \n\nTitle of Video 2\n\n\n \n\nTitle of Video 3"
   },
   {
     "objectID": "Untitled-1.html",
