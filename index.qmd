@@ -1,10 +1,9 @@
 ---
 title: "Welcome to My ePortfolio"
 page-layout: full
+image: headshot.png
 theme:
   light: flatly
-navbar:
-    search: false
 ---
 
 This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.
