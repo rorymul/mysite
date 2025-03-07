@@ -96,14 +96,15 @@
 .card {
   position: relative;
   overflow: hidden;
-  border-radius: 15px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-  transition: transform 0.3s ease;
-  text-decoration: none;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color */
 }
 
 .card:hover {
   transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
 }
 
 .card img {
@@ -111,6 +112,7 @@
   height: 250px;
   object-fit: cover;
   display: block;
+  border-radius: 10px;
 }
 
 .card-overlay {
@@ -119,20 +121,19 @@
   width: 100%;
   background-color: rgba(0,0,0,0.6);
   color: #fff;
-  padding: 12px;
   text-align: center;
+  padding: 10px;
   font-weight: bold;
-  font-size: 1.1rem;
+  border-radius: 0 0 10px 10px;
 }
 
-/* Fix to remove unintended carousel behavior */
-.card-container .carousel-control-prev,
-.card-container .carousel-control-next,
-.card-container .carousel-indicators {
+/* Completely hide Bootstrap Carousel styles, just in case */
+.card .carousel,
+.card .carousel-inner,
+.card .carousel-item,
+.card .carousel-control-prev,
+.card .carousel-control-next,
+.card .carousel-indicators {
   display: none !important;
-}
-
-.card-container .carousel-inner {
-  display: block !important;
-  transform: none !important;
+  pointer-events: none !important;
 }
