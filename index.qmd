@@ -5,7 +5,7 @@ theme:
   light: flatly
 ---
 
-This is a Portfolio showcasing the work that I have done over the last year of college and about other aspects of my college experience! Feel to reach out to me on LinkedIn (which is linked on the About Me page) if you have any questions for me.
+Here you’ll find highlights of my academic projects, achievements, and experiences from this past year in college. Feel free to explore my work, learn more about me, and connect on LinkedIn (available on the About Me page). I’m always happy to chat and answer any questions you might have!
 
 
 # Interesting Videos 🎥
