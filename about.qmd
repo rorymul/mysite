@@ -23,7 +23,7 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 
 <div class="card-container">
   <a href="./dcu.qmd" class="card">
-    <img src="DCU.jpeg" alt="What I did in DCU">
+    <img src="DCU.jpg" alt="What I did in DCU">
     <div class="card-overlay">What I did in DCU</div>
   </a>
 
