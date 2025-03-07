@@ -27,9 +27,9 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
     <div class="card-overlay">What I did in DCU</div>
   </a>
 
-  <a href="./recruitment.qmd" class="card">
-    <img src="images/DCU.jpeg" alt="Is Recruitment Broken?">
-    <div class="card-overlay">Is Recruitment Broken?</div>
+  <a href="./kkr.qmd" class="card">
+    <img src="kkr.jpg" alt="What I did in KKR">
+    <div class="card-overlay">What I did in KKR</div>
   </a>
 
   <a href="./uk-stock.qmd" class="card">
