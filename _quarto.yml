@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+resources:
+  - Rory_Mulhern_CV.pdf
 website:
   title: "Mysite"
   favicon: favicon.png
