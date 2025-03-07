@@ -1,0 +1,8 @@
+---
+title: "Projects During College"
+page-layout: full
+theme:
+  light: flatly
+---
+
+These are some of the projects I've completed during college

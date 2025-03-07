@@ -17,6 +17,8 @@ website:
         text: About Me
       - href: Untitled-1.qmd
         text: Quarto Test
+      - href: projects.qmd
+        text: Projects
         
 
 format:
