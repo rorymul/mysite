@@ -9,6 +9,9 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/rorymulhern/
+    - icon: file-earmark-person
+      text: CV
+      href: Rory Mulhern CV.pdf
 ---
 
 I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.
