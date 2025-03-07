@@ -1,6 +1,8 @@
 ---
-title: "Projects During College"
+title: "Time in DCU"
 page-layout: full
 theme:
   light: flatly
 ---
+
+During my time in DCU

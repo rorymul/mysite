@@ -21,21 +21,25 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 
 # Different Things I've Done in College and My Career
 
-<div class="video-grid">
-  
-  <a href="https://www.youtube.com/watch?v=hMW_pT7w-Y8" target="_blank" class="video-card">
-    <img src="ESG.jpg" alt="Video 1 Thumbnail">
-    <div class="video-title">Who Killed the ESG Party</div>
+<div class="card-container">
+  <a href="./dcu.qmd" class="card-link">
+    <div class="card">
+      <img src="images/esg.png" alt="Time in DCU">
+      <div class="card-title">What I've done in DCU</div>
+    </div>
   </a>
 
-  <a href="https://www.youtube.com/watch?v=FrQFFH2V8g0" target="_blank" class="video-card">
-    <img src="recruitment.jpeg" alt="Video 2 Thumbnail">
-    <div class="video-title">Is Recruitment Broken?</div>
+  <a href="./recruitment.qmd" class="card-link">
+    <div class="card">
+      <img src="DCU.jpeg" alt="Is Recruitment Broken">
+      <div class="card-title">Is Recruitment Broken?</div>
+    </div>
   </a>
 
-  <a href="https://www.youtube.com/watch?v=Fq21LiFTGHw" target="_blank" class="video-card">
-    <img src="UK.jpg" alt="Video 3 Thumbnail">
-    <div class="video-title">Fixing UK Stock Market</div>
+  <a href="./uk-stock.qmd" class="card-link">
+    <div class="card">
+      <img src="images/stockmarket.png" alt="Fixing UK Stock Market">
+      <div class="card-title">Fixing UK Stock Market</div>
+    </div>
   </a>
-
 </div>
