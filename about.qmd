@@ -32,8 +32,8 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
     <div class="card-overlay">What I did in KKR</div>
   </a>
 
-  <a href="./uk-stock.qmd" class="card">
-    <img src="images/stockmarket.png" alt="Fixing UK Stock Market">
-    <div class="card-overlay">Fixing UK Stock Market</div>
+  <a href="./millstone.qmd" class="card">
+    <img src="millstone.jpg" alt="What I did in Lombard Catering">
+    <div class="card-overlay">What I did in Lombard Catering</div>
   </a>
 </div>
