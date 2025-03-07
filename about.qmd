@@ -21,26 +21,19 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 
 # Different Things I've Done in College and My Career
 
-3
 <div class="card-container">
-  <a href="./dcu.qmd" class="card-link">
-    <div class="card">
-      <img src="DCU.jpeg" alt="Time in DCU">
-      <div class="card-title">What I've done in DCU</div>
-    </div>
+  <a href="./dcu.qmd" class="card">
+    <img src="DCU.jpeg" alt="What I did in DCU">
+    <div class="card-overlay">What I did in DCU</div>
   </a>
 
-  <a href="./dcu,qmd" class="card-link">
-    <div class="card">
-      <img src="DCU.jpeg" alt="Is Recruitment Broken">
-      <div class="card-title">Is Recruitment Broken?</div>
-    </div>
+  <a href="./recruitment.qmd" class="card">
+    <img src="images/DCU.jpeg" alt="Is Recruitment Broken?">
+    <div class="card-overlay">Is Recruitment Broken?</div>
   </a>
 
-  <a href="./dcu,qmd" class="card-link">
-    <div class="card">
-      <img src="images/stockmarket.png" alt="Fixing UK Stock Market">
-      <div class="card-title">Fixing UK Stock Market</div>
-    </div>
+  <a href="./uk-stock.qmd" class="card">
+    <img src="images/stockmarket.png" alt="Fixing UK Stock Market">
+    <div class="card-overlay">Fixing UK Stock Market</div>
   </a>
 </div>
