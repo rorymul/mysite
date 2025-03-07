@@ -86,22 +86,18 @@
 
 .card-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
-    margin: 20px 0;
-  }
-  
-  .card-link {
-    text-decoration: none;
-    color: inherit;
+    margin: 40px 0;
   }
   
   .card {
     position: relative;
     overflow: hidden;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
+    text-decoration: none;
   }
   
   .card:hover {
@@ -110,18 +106,19 @@
   
   .card img {
     width: 100%;
-    height: 100%;
+    height: 250px;
     object-fit: cover;
-    filter: brightness(60%);
+    display: block;
   }
   
-  .card-title {
+  .card-overlay {
     position: absolute;
     bottom: 0;
-    padding: 12px;
-    color: #fff;
-    font-size: 1.1em;
-    text-align: center;
     width: 100%;
-    font-weight: 600;
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+    padding: 12px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
   }
