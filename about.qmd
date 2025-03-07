@@ -21,6 +21,7 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 
 # Different Things I've Done in College and My Career
 
+3
 <div class="card-container">
   <a href="./dcu.qmd" class="card-link">
     <div class="card">
