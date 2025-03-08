@@ -23,17 +23,17 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 
 <div class="card-container">
 
-  <a href="./data_project.qmd" class="card">
+  <a href="./dcu.qmd" class="card">
     <img src="car.jpg.webp" alt="Programming and Visualisation">
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
-  <a href="./econometrics_model.qmd" class="card">
+  <a href="./kkr.qmd" class="card">
     <img src="pension.jpg" alt="Econometrics Project">
     <div class="card-overlay">Econometrics</div>
   </a>
 
-  <a href="./NED.qmd" class="card">
+  <a href="./millstone.qmd" class="card">
     <img src="NED.png" alt="What I did in KKR">
     <div class="card-overlay">NED</div>
   </a>
