@@ -22,6 +22,7 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 # Different Things I've Done in College and My Career
 
 <div class="card-container">
+
   <a href="./dcu.qmd" class="card">
     <img src="DCU.jpg" alt="What I did in DCU">
     <div class="card-overlay">What I did in DCU</div>
@@ -32,8 +33,9 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
     <div class="card-overlay">What I did in KKR</div>
   </a>
 
-  <a href="./millstone.qmd" class="card">
+ <a href="./millstone.qmd" class="card">
     <img src="millstone.jpg" alt="What I did in Lombard Catering">
     <div class="card-overlay">What I did in Lombard Catering</div>
   </a>
+
 </div>
