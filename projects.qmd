@@ -6,3 +6,12 @@ theme:
 ---
 
 These are some of the projects I've completed during college
+
+# Different Projects I've Done in College
+
+<div class="card-container">
+  <a href="./econometrics_model.qmd" class="card">
+    <img src="DCU.jpg" alt="What I did in DCU">
+    <div class="card-overlay">Econometrics</div>
+  </a>
+</div>
