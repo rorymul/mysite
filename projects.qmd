@@ -8,16 +8,16 @@ theme:
 These are some of the projects I've completed during college
 
 # Different Projects I've Done in College
+<div class="card-container two-row-grid">
 
-<div class="card-container">
   <a href="./data_project.qmd" class="card">
     <img src="car.jpg.webp" alt="Programming and Visualisation">
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
-  <a href="./data_project.qmd" class="card">
-    <img src="car.jpg.webp" alt="Programming and Visualisation">
-    <div class="card-overlay">Programming and Visualisation</div>
+  <a href="./econometrics_model.qmd" class="card">
+    <img src="pension.jpg" alt="Econometrics Project">
+    <div class="card-overlay">Econometrics</div>
   </a>
 
   <a href="./NED.qmd" class="card">
@@ -30,60 +30,14 @@ These are some of the projects I've completed during college
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
-  <a href="./data_project.qmd" class="card">
-    <img src="car.jpg.webp" alt="Programming and Visualisation">
-    <div class="card-overlay">Programming and Visualisation</div>
+  <a href="./econometrics_model.qmd" class="card">
+    <img src="pension.jpg" alt="Econometrics Project">
+    <div class="card-overlay">Econometrics</div>
   </a>
 
   <a href="./NED.qmd" class="card">
     <img src="NED.png" alt="What I did in KKR">
     <div class="card-overlay">NED</div>
   </a>
+
 </div>
-
-Then add this CSS:
-
-```css
-.card-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px; /* Adjust gap as needed */
-  justify-items: center;
-  align-items: center;
-}
-
-.card {
-  position: relative;
-  display: block;
-  width: 100%;
-  max-width: 350px; /* Adjust width as needed */
-}
-
-.card img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.card-overlay {
-  position: absolute;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.6);
-  color: white;
-  width: 100%;
-  text-align: center;
-  padding: 10px;
-  box-sizing: border-box;
-}
-
-.card {
-  position: relative;
-  text-decoration: none;
-  color: inherit;
-  overflow: hidden;
-  border-radius: 8px;
-}
-
-.card:hover .card-overlay {
-  background: rgba(0, 0, 0, 0.8);
-}
