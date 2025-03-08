@@ -1,76 +1,70 @@
 ---
 title: "Airgead don Todchaí"
+format: html
 theme:
   light: flatly
 jupyter: python3
+params:
+  starting_salary: 32000
+  salary_increase_rate_early: 0.10
+  salary_increase_rate_late: 0.02
+  pension_contribution_rate: 0.10
+  increase_contribution_rate: 0.60
+  investment_return: 0.07
+  fee_rate: 0.01
+  years: 30
 ---
 
 
 ```{python}
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.express as px
-from sklearn.linear_model import LinearRegression
 
-def pension_fund_simulation():
-    # Get user input for all parameters
-    starting_salary = float(input("Enter starting salary (€): "))
-    salary_increase_rate_early = float(input("Enter early salary increase rate (e.g., 0.10 for 10%): "))
-    salary_increase_rate_late = float(input("Enter late salary increase rate after 5 years (e.g., 0.02 for 2%): "))
-    pension_contribution_rate = float(input("Enter pension contribution rate (e.g., 0.10 for 10%): "))
-    increase_contribution_rate = float(input("Enter percentage of salary increase allocated to pension for first 5 years (e.g., 0.60 for 60%): "))
-    investment_return = float(input("Enter annual investment return rate (e.g., 0.07 for 7%): "))
-    fee_rate = float(input("Enter annual pension fund fee rate (e.g., 0.01 for 1%): "))
-    years = int(input("Enter number of years to simulate: "))
+# Use parameters from Quarto's YAML header
+def pension_fund_simulation(params):
+    starting_salary = params['starting_salary']
+    salary_increase_rate_early = params['salary_increase_rate_early']
+    salary_increase_rate_late = params['salary_increase_rate_late']
+    pension_contribution_rate = params['pension_contribution_rate']
+    increase_contribution_rate = params['increase_contribution_rate']
+    investment_return = params['investment_return']
+    fee_rate = params['fee_rate']
+    years = params['years']
 
-    # Initialize lists to store results
-    years_list = []
-    salary_list = []
-    annual_contribution_list = []
-    pension_balance_list = []
-    pension_balance_fixed_list = []
-    fees_accumulated_list = []
-    pension_after_fees_list = []
-    pension_after_fees_fixed_list = []
+    # Initialize lists
+    years_list, salary_list, annual_contribution_list = [], [], []
+    pension_balance_list, pension_balance_fixed_list = [], []
+    fees_accumulated_list, pension_after_fees_list, pension_after_fees_fixed_list = [], [], []
 
     # Initial conditions
     salary = starting_salary
-    pension_balance = pension_contribution_rate * starting_salary  # Initial balance based on contribution rate
-    pension_balance_fixed = pension_contribution_rate * starting_salary  # Alternative scenario without increased contribution
-    annual_contribution = pension_contribution_rate * starting_salary
-    annual_contribution_fixed = pension_contribution_rate * starting_salary
+    pension_balance = pension_contribution_rate * salary
+    pension_balance_fixed = pension_contribution_rate * salary
+    annual_contribution = pension_contribution_rate * salary
     total_fees_accumulated = 0
-    total_fees_accumulated_fixed = 0
 
     for year in range(1, years + 1):
         if year <= 5:
-            # First 5 years: 10% of original salary + 60% of salary increase
             salary_increase = salary * salary_increase_rate_early
             additional_contribution = salary_increase * increase_contribution_rate
             annual_contribution += additional_contribution
             salary *= (1 + salary_increase_rate_early)
         else:
-            # After 5 years: 10% of new salary or last year's contribution, whichever is higher
             salary *= (1 + salary_increase_rate_late)
             annual_contribution = max(annual_contribution, salary * pension_contribution_rate)
 
-        # Fixed contribution scenario: always 10% of salary, no increased contribution
         annual_contribution_fixed = salary * pension_contribution_rate
 
-        # Apply investment return before fees
         pension_balance = (pension_balance + annual_contribution) * (1 + investment_return)
         pension_balance_fixed = (pension_balance_fixed + annual_contribution_fixed) * (1 + investment_return)
 
-        # Calculate fees
-        fees_paid = pension_balance * fee_rate  # Fee percentage of total balance
-        pension_balance_after_fees = pension_balance - fees_paid  # Deduct fees
+        fees_paid = pension_balance * fee_rate
+        pension_balance_after_fees = pension_balance - fees_paid
         total_fees_accumulated += fees_paid
 
-        fees_paid_fixed = pension_balance_fixed * fee_rate  # Fee percentage for fixed scenario
-        pension_balance_after_fees_fixed = pension_balance_fixed - fees_paid_fixed  # Deduct fees
-        total_fees_accumulated_fixed += fees_paid_fixed
+        fees_paid_fixed = pension_balance_fixed * fee_rate
+        pension_balance_after_fees_fixed = pension_balance_fixed - fees_paid_fixed
 
         # Store results
         years_list.append(year)
@@ -82,31 +76,27 @@ def pension_fund_simulation():
         pension_after_fees_list.append(pension_balance_after_fees)
         pension_after_fees_fixed_list.append(pension_balance_after_fees_fixed)
 
-    # Create DataFrame to display results
+    # Create DataFrame
     df = pd.DataFrame({
         "Year": years_list,
         "Salary (€)": salary_list,
         "Annual Contribution (€)": annual_contribution_list,
-        "Pension Balance After Fees (€) (Increased Contributions)": pension_after_fees_list,
-        "Pension Balance After Fees (€) (Fixed Contributions)": pension_after_fees_fixed_list,
-        "Total Fees Earned (€)": fees_accumulated_list,
+        "Pension Balance After Fees (€1,000s) (Increased Contributions)": np.array(pension_after_fees_list)/1000,
+        "Pension Balance After Fees (€1,000s) (Fixed Contributions)": np.array(pension_after_fees_fixed_list)/1000,
+        "Total Fees Earned (€1,000s)": np.array(fees_accumulated_list)/1000,
     })
 
-    # Convert values to thousands (€1,000s)
-    df["Pension Balance After Fees (€1,000s) (Increased Contributions)"] = df["Pension Balance After Fees (€) (Increased Contributions)"] / 1000
-    df["Pension Balance After Fees (€1,000s) (Fixed Contributions)"] = df["Pension Balance After Fees (€) (Fixed Contributions)"] / 1000
-    df["Total Fees Earned (€1,000s)"] = df["Total Fees Earned (€)"] / 1000
-
-    # Plot using Plotly for interactivity
+    # Plot interactive chart
     fig = px.line(df, x="Year",
                   y=["Pension Balance After Fees (€1,000s) (Increased Contributions)",
                      "Pension Balance After Fees (€1,000s) (Fixed Contributions)",
                      "Total Fees Earned (€1,000s)"],
                   labels={"value": "Amount (€1,000s)", "Year": "Years"},
                   title="Pension Balance Growth Comparison: Increased vs Fixed Contributions")
-    fig.update_layout(yaxis_tickformat=",")  # Format y-axis with comma separators
+
+    fig.update_layout(yaxis_tickformat=",")
     fig.show()
 
-# Run the function to allow user input
-pension_fund_simulation()
+# Run the function
+pension_fund_simulation(params)
 ```
