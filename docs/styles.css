@@ -139,6 +139,9 @@
 }
 
 /* Specific styling for two-row grid layout */
-.two-row-grid {
-  grid-template-columns: repeat(3, 1fr);
+.card-container.two-row-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 20px;
+  margin: 40px 0;
 }
