@@ -44,10 +44,10 @@
     font-weight: bold;
 }
 
-/* Card Container Styling */
+/* Card Container Styling (All pages: 3 cards per row) */
 .card-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   margin: 40px 0;
 }
@@ -58,8 +58,10 @@
   overflow: hidden;
   border-radius: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  text-decoration: none; /* Remove underline */
-  color: inherit; /* Inherit color */
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .card:hover {
@@ -85,33 +87,4 @@
   padding: 10px;
   font-weight: bold;
   border-radius: 0 0 10px 10px;
-}
-
-
-/* Force the two-row grid layout explicitly */
-.card-container.two-row-grid {
-  display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
-  gap: 20px !important;
-  justify-items: stretch !important;
-  align-items: stretch !important;
-  width: 100% !important;
-}
-
-/* Reset and force card widths */
-.card-container.two-row-grid > .card {
-  width: 100% !important;
-  max-width: none !important; 
-  box-sizing: border-box !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Ensure images fill cards correctly */
-.card-container.two-row-grid > .card img {
-  width: 100% !important;
-  height: 250px !important;
-  object-fit: cover !important;
-  display: block !important;
-  border-radius: 10px !important;
 }
