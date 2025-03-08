@@ -44,19 +44,19 @@ These are some of the projects I've completed during college
 
 <div class="video-grid">
   
-  <a href="./data_project.qmd" class="card">
+  <a href="./data_project.qmd" target="_blank" class="video-card">
     <img src="car.jpg.webp" alt="Programming and Visualisation">
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
-  <a href="./econometrics_model.qmd" class="card">
-    <img src="pension.jpg" alt="Econometrics Project">
-    <div class="card-overlay">Econometrics</div>
+  <a href="https://www.youtube.com/watch?v=FrQFFH2V8g0" target="_blank" class="video-card">
+    <img src="recruitment.jpeg" alt="Video 2 Thumbnail">
+    <div class="video-title">Is Recruitment Broken?</div>
   </a>
 
-  <a href="./NED.qmd" class="card">
-    <img src="NED.png" alt="What I did in KKR">
-    <div class="card-overlay">NED</div>
+  <a href="https://www.youtube.com/watch?v=Fq21LiFTGHw" target="_blank" class="video-card">
+    <img src="UK.jpg" alt="Video 3 Thumbnail">
+    <div class="video-title">Fixing UK Stock Market</div>
   </a>
 
 </div>
