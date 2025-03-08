@@ -128,18 +128,21 @@
 }
 
 
-/* Specific styling for two-row grid layout */
+/* Force the two-row grid layout explicitly */
 .card-container.two-row-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, 1fr) !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
   gap: 20px !important;
-  margin: 40px 0 !important;
-  justify-items: center !important;
-  align-items: start !important;
+  justify-items: stretch !important;
+  align-items: stretch !important;
+  width: 100% !important;
 }
 
-/* Prevent unintended width or max-width issues from parent styles */
+/* Cards sizing and resetting external CSS interference */
 .card-container.two-row-grid .card {
   width: 100% !important;
-  max-width: 350px !important; /* Adjust as necessary */
+  max-width: none !important; /* Remove previous max-width limits */
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
 }
