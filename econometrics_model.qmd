@@ -1,8 +1,7 @@
 ---
-title: "Quarto Test"
+title: "Airgead don Todchaí"
 theme:
   light: flatly
-
 jupyter: python3
 ---
 
