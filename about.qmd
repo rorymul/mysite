@@ -19,21 +19,23 @@ I’m a final-year business student at Dublin City University, specialising in a
 
 With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.
 
+# Different Projects I've Done in College
+
 <div class="card-container">
 
-  <a href="./dcu.qmd" class="card">
-    <img src="DCU.jpg" alt="What I did in DCU">
-    <div class="card-overlay">What I did in DCU</div>
+  <a href="./data_project.qmd" class="card">
+    <img src="car.jpg.webp" alt="Programming and Visualisation">
+    <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
-  <a href="./kkr.qmd" class="card">
-    <img src="kkr.jpg" alt="What I did in KKR">
-    <div class="card-overlay">What I did in KKR</div>
+  <a href="./econometrics_model.qmd" class="card">
+    <img src="pension.jpg" alt="Econometrics Project">
+    <div class="card-overlay">Econometrics</div>
   </a>
 
- <a href="./millstone.qmd" class="card">
-    <img src="millstone.jpg" alt="What I did in Lombard Catering">
-    <div class="card-overlay">What I did in Lombard Catering</div>
+  <a href="./NED.qmd" class="card">
+    <img src="NED.png" alt="What I did in KKR">
+    <div class="card-overlay">NED</div>
   </a>
 
 </div>
