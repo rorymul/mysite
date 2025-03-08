@@ -26,4 +26,19 @@ These are some of the projects I've completed during college
     <div class="card-overlay">NED</div>
   </a>
 
+  <a href="./data_project.qmd" class="card">
+    <img src="car.jpg.webp" alt="Programming and Visualisation">
+    <div class="card-overlay">Programming and Visualisation</div>
+  </a>
+
+  <a href="./econometrics_model.qmd" class="card">
+    <img src="pension.jpg" alt="Econometrics Project">
+    <div class="card-overlay">Econometrics</div>
+  </a>
+
+  <a href="./NED.qmd" class="card">
+    <img src="NED.png" alt="What I did in KKR">
+    <div class="card-overlay">NED</div>
+  </a>
+  
 </div>
