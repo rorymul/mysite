@@ -91,18 +91,27 @@
 /* Force the two-row grid layout explicitly */
 .card-container.two-row-grid {
   display: grid !important;
-  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  grid-template-columns: repeat(3, 1fr) !important;
   gap: 20px !important;
   justify-items: stretch !important;
   align-items: stretch !important;
   width: 100% !important;
 }
 
-/* Cards sizing and resetting external CSS interference */
-.card-container.two-row-grid .card {
+/* Reset and force card widths */
+.card-container.two-row-grid > .card {
   width: 100% !important;
-  max-width: none !important; /* Remove previous max-width limits */
+  max-width: none !important; 
+  box-sizing: border-box !important;
   margin: 0 !important;
   padding: 0 !important;
-  box-sizing: border-box !important;
+}
+
+/* Ensure images fill cards correctly */
+.card-container.two-row-grid > .card img {
+  width: 100% !important;
+  height: 250px !important;
+  object-fit: cover !important;
+  display: block !important;
+  border-radius: 10px !important;
 }
