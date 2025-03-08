@@ -7,7 +7,7 @@ theme:
 
 These are some of the projects I've completed during college
 
-# Different Projects I've Done in College
+## Different Projects I've Done in College
 <div class="card-container two-row-grid">
 
   <a href="./data_project.qmd" class="card">
