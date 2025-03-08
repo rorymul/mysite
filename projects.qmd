@@ -7,6 +7,8 @@ theme:
 
 These are some of the assignments and projects I've completed during time in college
 
+# View some of my projects
+
 <div class="card-container two-row-grid">
 
   <a href="./data_project.qmd" class="card">
