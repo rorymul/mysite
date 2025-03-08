@@ -11,7 +11,7 @@ These are some of the projects I've completed during college
 
 <div class="card-container">
 
-  <a href="./econometrics_model.qmd" class="card">
+  <a href="./data_project.qmd" class="card">
     <img src="car.jpg.webp" alt="Programming and Visualisation">
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
