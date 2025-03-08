@@ -137,3 +137,8 @@
   display: none !important;
   pointer-events: none !important;
 }
+
+/* Specific styling for two-row grid layout */
+.two-row-grid {
+  grid-template-columns: repeat(3, 1fr);
+}
