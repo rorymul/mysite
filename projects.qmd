@@ -5,9 +5,8 @@ theme:
   light: flatly
 ---
 
-These are some of the projects I've completed during college
+These are some of the assignments and projects I've completed during time in college
 
-## Different Projects I've Done in College
 <div class="card-container two-row-grid">
 
   <a href="./data_project.qmd" class="card">
