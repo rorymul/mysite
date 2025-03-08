@@ -127,16 +127,6 @@
   border-radius: 0 0 10px 10px;
 }
 
-/* Completely hide Bootstrap Carousel styles, just in case */
-.card .carousel,
-.card .carousel-inner,
-.card .carousel-item,
-.card .carousel-control-prev,
-.card .carousel-control-next,
-.card .carousel-indicators {
-  display: none !important;
-  pointer-events: none !important;
-}
 
 /* Specific styling for two-row grid layout */
 .card-container.two-row-grid {
