@@ -34,7 +34,7 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
   </a>
 
   <a href="./millstone.qmd" class="card">
-    <img src="milstone.jpeg.png" alt="What I did in Millstone">
+    <img src="milstone.jpeg" alt="What I did in Millstone">
     <div class="card-overlay">Time at Millstone</div>
   </a>
 
