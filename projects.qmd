@@ -14,4 +14,10 @@ These are some of the projects I've completed during college
     <img src="pension.jpg" alt="Econometrics Project">
     <div class="card-overlay">Econometrics</div>
   </a>
+
+  <a href="./NED.qmd" class="card">
+    <img src="NED.png" alt="What I did in KKR">
+    <div class="card-overlay">NED</div>
+  </a>
+
 </div>
