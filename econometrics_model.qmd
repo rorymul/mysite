@@ -1,12 +1,14 @@
 ---
-title: "NED"
+title: "Econometrics"
 page-layout: full
 theme:
   light: flatly
 ---
-<div class="card-container two-row-grid">
-  <a href="https://econometrics.streamlit.app" class="card">
-    <img src="pension.jpg" alt="Econometrics Project">
-    <div class="card-overlay">App for Project</div>
+
+<div class="video-grid">
+  
+  <a href="https://econometrics.streamlit.app" target="_blank" class="video-card">
+    <img src="pension.jpg" alt="Video 1 Thumbnail">
+    <div class="video-title">App for Project</div>
   </a>
-<div>
+</div>
