@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Rory Mulhern",
+    "objectID": "econometrics_model.html",
+    "href": "econometrics_model.html",
+    "title": "NED",
     "section": "",
-    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\nDifferent Projects I’ve Done in College\n\n \n\nTime at DCU\n\n\n \n\nTime at KKR\n\n\n \n\nTime at Millstone"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My ePortfolio",
-    "section": "",
-    "text": "Here you’ll find highlights of my academic projects, achievements, and experiences from this past year in college. Feel free to explore my work, learn more about me, and connect on LinkedIn (available on the About Me page). I’m always happy to chat and answer any questions you might have!\n\nInteresting Videos 🎥\nHere are some videos I find interesting:\n\n \n\nWho Killed the ESG Party\n\n\n \n\nIs Recruitment Broken?\n\n\n \n\nFixing UK Stock Market"
+    "text": "App for Project"
   },
   {
     "objectID": "Untitled-1.html",
@@ -19,6 +12,13 @@
     "title": "Quarto Test",
     "section": "",
     "text": "import numpy as np\nimport matplotlib.pyplot as plt\n\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n    subplot_kw = {'projection' : 'polar'}\n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My ePortfolio",
+    "section": "",
+    "text": "Here you’ll find highlights of my academic projects, achievements, and experiences from this past year in college. Feel free to explore my work, learn more about me, and connect on LinkedIn (available on the About Me page). I’m always happy to chat and answer any questions you might have!\n\nInteresting Videos 🎥\nHere are some videos I find interesting:\n\n \n\nWho Killed the ESG Party\n\n\n \n\nIs Recruitment Broken?\n\n\n \n\nFixing UK Stock Market"
   },
   {
     "objectID": "projects.html",
@@ -35,10 +35,10 @@
     "text": "During my time in DCU"
   },
   {
-    "objectID": "projects.html#different-projects-ive-done-in-college",
-    "href": "projects.html#different-projects-ive-done-in-college",
-    "title": "Projects During College",
-    "section": "Different Projects I’ve Done in College",
-    "text": "Different Projects I’ve Done in College\n\n \n\nProgramming and Visualisation\n\n\n \n\nEconometrics\n\n\n \n\nNED\n\n\n \n\nProgramming and Visualisation\n\n\n \n\nEconometrics\n\n\n \n\nNED"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Rory Mulhern",
+    "section": "",
+    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\nDifferent Projects I’ve Done in College\n\n \n\nTime at DCU\n\n\n \n\nTime at KKR\n\n\n \n\nTime at Millstone"
   }
 ]
