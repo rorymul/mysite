@@ -42,3 +42,21 @@ These are some of the assignments and projects I've completed during time in col
   </a>
 
 </div>
+<div class="video-grid">
+  
+  <a href="https://www.youtube.com/watch?v=hMW_pT7w-Y8" target="_blank" class="video-card">
+    <img src="ESG.jpg" alt="Video 1 Thumbnail">
+    <div class="video-title">Who Killed the ESG Party</div>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=FrQFFH2V8g0" target="_blank" class="video-card">
+    <img src="recruitment.jpeg" alt="Video 2 Thumbnail">
+    <div class="video-title">Is Recruitment Broken?</div>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=Fq21LiFTGHw" target="_blank" class="video-card">
+    <img src="UK.jpg" alt="Video 3 Thumbnail">
+    <div class="video-title">Fixing UK Stock Market</div>
+  </a>
+
+</div>
