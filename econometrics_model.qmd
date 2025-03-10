@@ -1,7 +1,12 @@
 ---
-title: "Airgead don Todchaí"
+title: "NED"
+page-layout: full
 theme:
   light: flatly
-jupyter: python3
 ---
-
+<div class="card-container two-row-grid">
+  <a href="https://econometrics.streamlit.app" class="card">
+    <img src="pension.jpg" alt="Econometrics Project">
+    <div class="card-overlay">App for Project</div>
+  </a>
+<div>
