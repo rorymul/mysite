@@ -11,4 +11,5 @@ listing:
 During my time in DCU
 
 - [SG-FECC](vermont.qmd)
+  ![SG-FECC Image](vermont.HEIC)
   About my time in the SG-Family Entreprise Case Competition in Vermont, USA
