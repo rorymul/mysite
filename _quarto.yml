@@ -28,7 +28,7 @@ format:
       light: lux
     page-layout: full
     css: styles.css
-    toc: true
+    toc: false
 
 
 
