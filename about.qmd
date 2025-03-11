@@ -5,6 +5,8 @@ theme:
   light: flatly
 about:
   template: jolla
+  image-shape: round
+  image-width: 17em
   links: # create buttons
     - icon: linkedin 
       text: LinkedIn
