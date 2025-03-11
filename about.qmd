@@ -4,7 +4,7 @@ image: headshot.png
 theme:
   light: flatly
 about:
-  template: minimal
+  template: jolla
   image-shape: round
   image-width: 20em
   links: # create buttons
