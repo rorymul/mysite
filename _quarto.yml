@@ -5,7 +5,7 @@ resources:
   - Rory_Mulhern_CV.pdf
 website:
   title: "Mysite"
-  favicon: favicon.png
+  favicon: favicon.ico
   navbar:
     background: primary
     search: false
