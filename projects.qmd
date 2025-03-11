@@ -12,32 +12,32 @@ These are some of the assignments and projects I've completed during time in col
 <div class="card-container two-row-grid">
 
   <a href="./data_project.qmd" class="card">
-    <img src="car.jpg.webp" alt="Programming and Visualisation">
+    <img src="images/car.jpg.webp" alt="Programming and Visualisation">
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
   <a href="./econometrics_model.qmd" class="card">
-    <img src="pension.jpg" alt="Econometrics Project">
+    <img src="images/pension.jpg" alt="Econometrics Project">
     <div class="card-overlay">Econometrics</div>
   </a>
 
   <a href="./NED.qmd" class="card">
-    <img src="NED.png" alt="What I did in KKR">
+    <img src="images/NED.png" alt="What I did in KKR">
     <div class="card-overlay">NED</div>
   </a>
 
   <a href="./data_project.qmd" class="card">
-    <img src="car.jpg.webp" alt="Programming and Visualisation">
+    <img src="images/car.jpg.webp" alt="Programming and Visualisation">
     <div class="card-overlay">Programming and Visualisation</div>
   </a>
 
   <a href="./econometrics_model.qmd" class="card">
-    <img src="pension.jpg" alt="Econometrics Project">
+    <img src="images/pension.jpg" alt="Econometrics Project">
     <div class="card-overlay">Econometrics</div>
   </a>
 
   <a href="./NED.qmd" class="card">
-    <img src="NED.png" alt="What I did in KKR">
+    <img src="images/NED.png" alt="What I did in KKR">
     <div class="card-overlay">NED</div>
   </a>
 
@@ -45,17 +45,17 @@ These are some of the assignments and projects I've completed during time in col
 <div class="video-grid">
   
   <a href="https://www.youtube.com/watch?v=hMW_pT7w-Y8" target="_blank" class="video-card">
-    <img src="ESG.jpg" alt="Video 1 Thumbnail">
+    <img src="images/ESG.jpg" alt="Video 1 Thumbnail">
     <div class="video-title">Who Killed the ESG Party</div>
   </a>
 
   <a href="https://www.youtube.com/watch?v=FrQFFH2V8g0" target="_blank" class="video-card">
-    <img src="recruitment.jpeg" alt="Video 2 Thumbnail">
+    <img src="images/recruitment.jpeg" alt="Video 2 Thumbnail">
     <div class="video-title">Is Recruitment Broken?</div>
   </a>
 
   <a href="https://www.youtube.com/watch?v=Fq21LiFTGHw" target="_blank" class="video-card">
-    <img src="UK.jpg" alt="Video 3 Thumbnail">
+    <img src="images/UK.jpg" alt="Video 3 Thumbnail">
     <div class="video-title">Fixing UK Stock Market</div>
   </a>
 

@@ -1,6 +1,6 @@
 ---
 title: "Rory Mulhern"
-image: headshot.png
+image: images/headshot.png
 theme:
   light: lux
 about:
@@ -26,17 +26,17 @@ With certifications in SQL, Python, and financial modeling, I blend analytical r
 <div class="card-container">
 
   <a href="./dcu.qmd" class="card">
-    <img src="DCU.jpg" alt="What I did at DCU">
+    <img src="images/DCU.jpg" alt="What I did at DCU">
     <div class="card-overlay">Time at DCU</div>
   </a>
 
   <a href="./kkr.qmd" class="card">
-    <img src="KKR.jpg" alt="What I did at KKR">
+    <img src="images/KKR.jpg" alt="What I did at KKR">
     <div class="card-overlay">Time at KKR</div>
   </a>
 
   <a href="./millstone.qmd" class="card">
-    <img src="millstone.jpeg" alt="What I did in Millstone">
+    <img src="images/millstone.jpeg" alt="What I did in Millstone">
     <div class="card-overlay">Time at Millstone</div>
   </a>
 
