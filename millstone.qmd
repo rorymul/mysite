@@ -2,5 +2,5 @@
 title: "Time in Millstone"
 page-layout: full
 theme:
-  light: flatly
+  light: lux
 ---

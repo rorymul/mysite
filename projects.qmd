@@ -2,7 +2,7 @@
 title: "Projects During College"
 page-layout: full
 theme:
-  light: flatly
+  light: lux
 ---
 
 These are some of the assignments and projects I've completed during time in college

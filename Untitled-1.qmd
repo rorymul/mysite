@@ -1,7 +1,7 @@
 ---
 title: "Quarto Test"
 theme:
-  light: flatly
+  light: lux
 
 jupyter: python3
 ---

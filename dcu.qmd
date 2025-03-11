@@ -2,7 +2,7 @@
 title: "Time in DCU"
 page-layout: full
 theme:
-  light: flatly
+  light: lux
 ---
 
 During my time in DCU

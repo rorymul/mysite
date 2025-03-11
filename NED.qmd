@@ -2,5 +2,5 @@
 title: "NED"
 page-layout: full
 theme:
-  light: flatly
+  light: lux
 ---

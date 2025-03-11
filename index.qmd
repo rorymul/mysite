@@ -2,7 +2,7 @@
 title: "Welcome to My ePortfolio"
 page-layout: full
 theme:
-  light: flatly
+  light: lux
 ---
 
 Here you’ll find highlights of my academic projects, achievements, and experiences from this past year in college. Feel free to explore my work, learn more about me, and connect on LinkedIn (available on the About Me page). I’m always happy to chat and answer any questions you might have!
