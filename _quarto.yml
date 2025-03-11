@@ -5,12 +5,12 @@ resources:
   - Rory_Mulhern_CV.pdf
 website:
   title: "Mysite"
-  favicon: favicon-32x32.png
+  favicon: favicon1.png
   navbar:
     background: primary
     search: false
     title: false
-    logo: favicon.ico
+    logo: favicon1.png
     left:
       - href: index.qmd
         text: Home
