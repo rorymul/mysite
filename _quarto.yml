@@ -28,7 +28,7 @@ format:
       light: 
       - lux
       - style.scss
-    mainfont: Afacad
+    mainfont: Afacad Flux
     page-layout: full
     css: styles.css
     toc: false
