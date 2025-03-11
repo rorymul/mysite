@@ -3,6 +3,12 @@ title: "Time in DCU"
 page-layout: full
 theme:
   light: lux
+listing:
+  contents: posts
+  type: default
 ---
 
 During my time in DCU
+
+- [SG-FECC](vermont.qmd)
+  About my time in the SG-Family Entreprise Case Competition in Vermont, USA
