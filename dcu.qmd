@@ -6,6 +6,7 @@ theme:
 listing:
   contents: posts
   type: default
+  categories: true
 ---
 
 During my time in DCU
