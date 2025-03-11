@@ -10,7 +10,7 @@ website:
     background: primary
     search: false
     title: false
-    logo: favicon-32x32.png
+    logo: favicon.ico
     left:
       - href: index.qmd
         text: Home
