@@ -2,9 +2,9 @@
 title: "Rory Mulhern"
 image: headshot.png
 theme:
-  light: flatly
+  light: lux
 about:
-  template: minimal
+  template: jolla
   image-shape: round
   image-width: 20em
   links: # create buttons
