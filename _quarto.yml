@@ -25,7 +25,7 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: lux
     page-layout: full
     css: styles.css
     toc: true
