@@ -1,8 +1,6 @@
 ---
-title: "Econometrics"
+title: "Time at SG-FECC in Burlington, Vermont, USA"
 page-layout: full
 theme:
   light: lux
 ---
-
-Time in Vermont
