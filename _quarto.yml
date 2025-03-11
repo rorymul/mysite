@@ -25,7 +25,10 @@ website:
 format:
   html:
     theme:
-      light: lux
+      light: 
+      - lux
+      - style.scss
+    mainfont: Afaced Flux
     page-layout: full
     css: styles.css
     toc: false
