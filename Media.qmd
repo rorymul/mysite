@@ -1,11 +1,9 @@
 ---
-title: "Media"
+title: "Interesting Videos 🎥"
 page-layout: full
 theme:
   light: lux
 ---
-
-# Interesting Videos 🎥
 
 Here are some videos I find interesting:
 

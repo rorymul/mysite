@@ -1,5 +1,5 @@
 ---
-title: "Time in KKR"
+title: "Time in KKR 💼"
 page-layout: full
 theme:
   light: lux

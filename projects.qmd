@@ -1,5 +1,5 @@
 ---
-title: "Projects During College"
+title: "Projects During College 💻"
 page-layout: full
 theme:
   light: lux

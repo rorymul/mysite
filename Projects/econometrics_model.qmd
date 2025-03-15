@@ -1,5 +1,5 @@
 ---
-title: "Econometrics"
+title: "Econometrics 📈"
 page-layout: full
 theme:
   light: lux

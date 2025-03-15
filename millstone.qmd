@@ -1,5 +1,5 @@
 ---
-title: "Time in Millstone"
+title: "Time in Millstone 🥩"
 page-layout: full
 theme:
   light: lux

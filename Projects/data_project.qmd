@@ -1,5 +1,5 @@
 ---
-title: "Programming and Visualisation"
+title: "Programming and Visualisation 📊"
 page-layout: full
 theme:
   light: lux
