@@ -15,29 +15,13 @@ about:
       text: CV
       href: ./Rory_Mulhern_CV.pdf
       target: _blank
+listing: 
+  contents: about_me
+  type: grid
+  fields: [title, image]
+  grid-columns: 3
 ---
 
 I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.
 
 With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.
-
-## Places I've Worked and Time in College
-
-<div class="card-container">
-
-  <a href="./dcu.qmd" class="card">
-    <img src="images/DCU.jpg" alt="What I did at DCU">
-    <div class="card-overlay">Time at DCU</div>
-  </a>
-
-  <a href="./kkr.qmd" class="card">
-    <img src="images/KKR.jpg" alt="What I did at KKR">
-    <div class="card-overlay">Time at KKR</div>
-  </a>
-
-  <a href="./millstone.qmd" class="card">
-    <img src="images/millstone.jpeg" alt="What I did in Millstone">
-    <div class="card-overlay">Time at Millstone</div>
-  </a>
-
-</div>
