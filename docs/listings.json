@@ -22,10 +22,6 @@
   {
     "listing": "/about.html",
     "items": [
-      "/about_me/DCU/berlin.html",
-      "/about_me/DCU/rag.html",
-      "/about_me/DCU/vermont.html",
-      "/about_me/DCU/tutorials.html",
       "/about_me/dcu.html",
       "/about_me/kkr.html",
       "/about_me/millstone.html"
@@ -33,11 +29,6 @@
   },
   {
     "listing": "/about_me/dcu.html",
-    "items": [
-      "/about_me/DCU/berlin.html",
-      "/about_me/DCU/rag.html",
-      "/about_me/DCU/vermont.html",
-      "/about_me/DCU/tutorials.html"
-    ]
+    "items": []
   }
 ]

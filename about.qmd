@@ -16,7 +16,7 @@ about:
       href: ./Rory_Mulhern_CV.pdf
       target: _blank
 listing: 
-  contents: about_me
+  contents: about_me/*
   type: grid
   fields: [title, image]
   grid-columns: 3
