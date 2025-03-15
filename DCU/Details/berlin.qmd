@@ -1,0 +1,6 @@
+---
+title: "BIP Berlin 🇩🇪"
+page-layout: full
+theme:
+  light: lux
+---

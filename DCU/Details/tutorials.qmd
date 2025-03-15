@@ -1,0 +1,6 @@
+---
+title: "Teaching Tutorials 📚"
+page-layout: full
+theme:
+  light: lux
+---

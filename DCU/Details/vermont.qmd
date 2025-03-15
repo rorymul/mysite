@@ -1,5 +1,5 @@
 ---
-title: "Time at SG-FECC in Burlington, Vermont, USA"
+title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
 page-layout: full
 theme:
   light: lux
