@@ -4,5 +4,13 @@
     "items": [
       "/DCU/Details/vermont.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/Projects/econometrics_model.html",
+      "/Projects/NED.html",
+      "/Projects/data_project.html"
+    ]
   }
 ]
