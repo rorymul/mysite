@@ -6,7 +6,7 @@ theme:
 listing: 
   contents: DCU
   type: grid
-  fields: [title, images]
+  fields: [title, image]
   grid-columns: 2
 ---
 
