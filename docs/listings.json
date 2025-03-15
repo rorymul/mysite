@@ -11,9 +11,12 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/Projects/business_strategy.html",
       "/Projects/econometrics_model.html",
       "/Projects/NED.html",
-      "/Projects/data_project.html"
+      "/Projects/data_project.html",
+      "/Projects/PythonML.html",
+      "/Projects/sustainability.html"
     ]
   }
 ]
