@@ -20,6 +20,8 @@ website:
         text: Quarto Test
       - href: projects.qmd
         text: Projects
+      - href: Media.qmd
+        text: Media
         
 
 format:
