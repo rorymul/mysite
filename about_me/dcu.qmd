@@ -4,7 +4,7 @@ page-layout: full
 theme:
   light: lux
 listing: 
-  contents: about_me/DCU/*
+  contents: about_me/DCU
   type: grid
   fields: [title, image]
   grid-columns: 2
