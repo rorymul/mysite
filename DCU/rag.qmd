@@ -1,5 +1,5 @@
 ---
-title: "RAG 💶"
+title: "Raising and Giving Society 💶"
 page-layout: full
 theme:
   light: lux
