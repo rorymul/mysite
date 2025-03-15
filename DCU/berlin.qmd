@@ -1,5 +1,5 @@
 ---
-title: "BIP Berlin 🇩🇪"
+title: "BIP Berlin, Germany 🇩🇪"
 page-layout: full
 theme:
   light: lux
