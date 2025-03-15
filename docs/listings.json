@@ -18,5 +18,17 @@
       "/Projects/data_project.html",
       "/Projects/sustainability.html"
     ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about_me/dcu.html",
+      "/about_me/kkr.html",
+      "/about_me/millstone.html"
+    ]
+  },
+  {
+    "listing": "/about_me/dcu.html",
+    "items": []
   }
 ]
