@@ -1,0 +1,6 @@
+---
+title: "Python and Machine Learning 🐍"
+page-layout: full
+theme:
+  light: lux
+---

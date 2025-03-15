@@ -1,0 +1,6 @@
+---
+title: "Responsible Management & Leadership for Sustainable Business 🌱"
+page-layout: full
+theme:
+  light: lux
+---
