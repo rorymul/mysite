@@ -3,7 +3,7 @@ title: "Projects During College"
 page-layout: full
 theme:
   light: lux
-  listing: 
+listing: 
   contents: Projects
   type: grid
   fields: [title, image]
