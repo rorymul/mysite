@@ -21,7 +21,7 @@ theme:
 page-layout: full
 ---
 
-Here you’ll find highlights of my academic projects, achievements, and experiences from this past year in college. Feel free to explore my work, learn more about me, and connect on LinkedIn (available on the About Me page). I’m always happy to chat and answer any questions you might have!
+Here, you’ll find a collection of my academic projects, achievements, and experiences from the past 4 years. This space showcases my work, interests, and insights, offering a glimpse into my journey and aspirations. Feel free to explore, connect with me on LinkedIn, or reach out if you have any questions, I’m always happy to chat!
 
 
 # Interesting Videos 🎥
