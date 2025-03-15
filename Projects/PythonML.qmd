@@ -1,5 +1,5 @@
 ---
-title: "Python and Machine Learning 🐍"
+title: "Machine Learning and Advanced Python 🐍"
 page-layout: full
 theme:
   light: lux
