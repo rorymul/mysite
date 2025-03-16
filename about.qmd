@@ -14,7 +14,6 @@ about:
     - icon: file-earmark-pdf
       text: CV
       href: cv.qmd
-      target: _blank
 listing: 
   contents: about_me/*
   type: grid
