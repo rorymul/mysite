@@ -1,5 +1,6 @@
 ---
 title: "Programming and Visualisation 📊"
+image: "/Projects/data_projects.jpg.webp"
 page-layout: full
 theme:
   light: lux

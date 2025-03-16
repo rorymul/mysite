@@ -1,5 +1,6 @@
 ---
 title: "NED ☕️"
+image: "/Projects/NED.png"
 page-layout: full
 theme:
   light: lux
