@@ -2,3 +2,15 @@
 
 // Importing Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+
+/*-- scss:defaults --*/
+
+// Colors
+$light-purple: #8A71A9;
+$purple: #9158A2;
+
+
+// Base document colors
+$navbar-fg: $light-purple; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
