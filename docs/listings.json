@@ -29,6 +29,11 @@
   },
   {
     "listing": "/about_me/dcu.html",
-    "items": []
+    "items": [
+      "/about_me/dcu_list/berlin.html",
+      "/about_me/dcu_list/rag.html",
+      "/about_me/dcu_list/vermont.html",
+      "/about_me/dcu_list/tutorials.html"
+    ]
   }
 ]

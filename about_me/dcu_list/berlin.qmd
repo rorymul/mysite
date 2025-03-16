@@ -1,5 +1,6 @@
 ---
 title: "BIP Berlin, Germany 🇩🇪"
+image: "/about_me/dcu_list/berlin.jpg"
 page-layout: full
 theme:
   light: lux
