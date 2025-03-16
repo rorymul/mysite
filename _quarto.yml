@@ -12,7 +12,7 @@ website:
     search: false
     title: false
     logo: images/favicon2.png
-    left:
+    right:
       - icon: person-lines-fill
         href: about.qmd
         text: About Me
