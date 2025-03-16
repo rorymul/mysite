@@ -11,7 +11,7 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/rorymulhern/
-    - icon: file-earmark-pdf
+    - icon: file-earmark-person
       text: "CV"
       href: Rory_Mulhern_CV.pdf
 listing: 
