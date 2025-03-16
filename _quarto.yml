@@ -13,9 +13,6 @@ website:
     title: false
     logo: images/favicon2.png
     left:
-      - icon: house
-        href: index.qmd
-        text: Home
       - icon: person-lines-fill
         href: about.qmd
         text: About Me
