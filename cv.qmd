@@ -2,14 +2,13 @@
 title: "My CV"
 format:
   html:
-    include-in-header: |
-      <style>
-        iframe {
-          width: 100%;
-          height: 100vh; /* Full page height */
-          border: none;
-        }
-      </style>
-    include-after-body: |
-      <iframe src="/images/Rory_mulhern_CV.pdf"></iframe>
+    include-in-header: header.html
+    include-after-body: footer.html
+    css:
+      - styles.css
+      - style.scss
+    toc: false
+    page-layout: full
+resources:
+  - Rory_Mulhern_CV.pdf
 ---
