@@ -10,5 +10,5 @@ format:
     toc: false
     page-layout: full
 resources:
-  - Rory_Mulhern_CV.pdf
+  - images/Rory_Mulhern_CV.pdf
 ---
