@@ -15,14 +15,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - icon: person-lines-fill
+        href: about.qmd
         text: About Me
-      - href: Untitled-1.qmd
-        text: Quarto Test
-      - href: projects.qmd
+      - icon: journal-bookmark-fill
+        href: projects.qmd
         text: Projects
       - href: Media.qmd
         text: Media
+      - href: Untitled-1.qmd
+        text: Quarto Test
+
         
 
 format:
