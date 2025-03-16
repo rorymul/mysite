@@ -8,6 +8,7 @@ website:
   favicon: images/favicon2.png
   navbar:
     background: primary
+    sticky: true
     search: false
     title: false
     logo: images/favicon2.png
