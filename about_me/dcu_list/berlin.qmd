@@ -11,9 +11,9 @@ I had the incredible opportunity to represent Dublin City University, after bein
 
 Throughout the bootcamp, I worked alongside a talented, diverse team from Finland and Germany, tackling real-world sustainability challenges. Partnering with 2zero, we developed an incentive-based reward system designed to encourage eco-friendly tourism in Berlin. I had the honour of presenting our idea, and I’m proud to say that we were selected as the winners of the 2zero Sustainability Challenge!
 
-![](work_bip.gif){style="float: right; margin-left: 1rem; width: 40%;"}
+![](work_bip.png){style="float: right; margin-left: 1rem; width: 40%;"}
 
 Beyond the intense problem-solving sessions, this experience provided invaluable insights into entrepreneurship and sustainability, while also allowing me to explore the vibrant city of Berlin. It was an unforgettable week that has strengthened my professional and personal growth.
 
-![](exploring.png){style="float: left; margin-right: 1rem; width: 40%;"}
+![](exploring.gif){style="float: left; margin-right: 1rem; width: 40%;"}
 
