@@ -1,6 +1,6 @@
 ---
 title: "Time in KKR 💼"
-image: "./about_me/DCU.jpg"
+image: "/about_me/kkr.jpg"
 page-layout: full
 theme:
   light: lux
