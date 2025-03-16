@@ -12,7 +12,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/rorymulhern/
     - icon: file-earmark-pdf
-      text: CV
+      text: "CV"
       href: Rory_Mulhern_CV.pdf
 listing: 
   contents: about_me/*
