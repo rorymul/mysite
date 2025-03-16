@@ -17,18 +17,18 @@ A defining aspect of my time at KKR was the firm’s culture, which is deeply ro
 ## Key Contributions & Skills Developed
 
 Throughout my internship, I had the opportunity to work on a variety of projects that enhanced both my technical and analytical capabilities:
-	•	Investment Reporting & Data Analysis
-	•	Compiled detailed investment reports for Credit funds, utilizing multiple data sources to provide insights on performance and key metrics.
-	•	Demonstrated strong analytical acumen and meticulous attention to detail in presenting investment information to stakeholders.
-	•	Process Automation & Efficiency Improvements
-	•	Developed automation techniques to streamline Excel-based data collection, significantly reducing reporting time.
-	•	Integrated UpSlide to enhance the transfer of data between Excel and reports, improving overall workflow efficiency.
-	•	Investor & Internal Reporting
-	•	Managed Credit Investment headcount queries and prepared comprehensive reports on investment personnel.
-	•	Assisted in completing Leveraged Credit RFPs (Requests for Proposal) and DDQs (Due Diligence Questionnaires), ensuring timely and accurate responses to investor inquiries.
-	•	Created templates for fund performance data collection on Zephyr, facilitating a smooth transition from StyleAdvisor to a modern digital platform.
-	•	Stakeholder Engagement & Problem-Solving
-	•	Responded to ad hoc investor and internal queries, demonstrating adaptability and a solution-oriented mindset in addressing data-related challenges.
+•	Investment Reporting & Data Analysis
+•	Compiled detailed investment reports for Credit funds, utilizing multiple data sources to provide insights on performance and key metrics.
+•	Demonstrated strong analytical acumen and meticulous attention to detail in presenting investment information to stakeholders.
+•	Process Automation & Efficiency Improvements
+•	Developed automation techniques to streamline Excel-based data collection, significantly reducing reporting time.
+•	Integrated UpSlide to enhance the transfer of data between Excel and reports, improving overall workflow efficiency.
+•	Investor & Internal Reporting
+•	Managed Credit Investment headcount queries and prepared comprehensive reports on investment personnel.
+•	Assisted in completing Leveraged Credit RFPs (Requests for Proposal) and DDQs (Due Diligence Questionnaires), ensuring timely and accurate responses to investor inquiries.
+•	Created templates for fund performance data collection on Zephyr, facilitating a smooth transition from StyleAdvisor to a modern digital platform.
+•	Stakeholder Engagement & Problem-Solving
+•	Responded to ad hoc investor and internal queries, demonstrating adaptability and a solution-oriented mindset in addressing data-related challenges.
 
 ## Looking Ahead
 

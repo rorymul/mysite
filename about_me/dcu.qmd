@@ -1,5 +1,5 @@
 ---
-title: "Time in DCU 🏫"
+title: "Time at DCU 🏫"
 page-layout: full
 image: "/about_me/DCU.jpg"
 theme:

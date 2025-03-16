@@ -1,5 +1,5 @@
 ---
-title: "Time in Millstone 🥩"
+title: "Time at Millstone 🥩"
 image: "/about_me/millstone.jpeg"
 page-layout: full
 theme:
