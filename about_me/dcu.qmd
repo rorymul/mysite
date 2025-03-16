@@ -5,7 +5,7 @@ image: "/about_me/DCU.jpg"
 theme:
   light: lux
 listing: 
-  contents: about_me/dcu_list/*
+  contents: dcu_list/*
   type: grid
   fields: [title, image]
   grid-columns: 2
