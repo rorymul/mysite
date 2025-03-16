@@ -14,7 +14,7 @@ about:
     - icon: envelope
       href: mailto:mulhernrory9gmail.com
     - icon: file-earmark-person
-      href: CV.pdf
+      href: https://rorymul.github.io/mysite/CV.pdf
 
 theme:
   light: lux
