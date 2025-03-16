@@ -1,5 +1,6 @@
 ---
 title: "Time in Millstone 🥩"
+image: "./about_me/millstone.jpeg"
 page-layout: full
 theme:
   light: lux

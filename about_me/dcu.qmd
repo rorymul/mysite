@@ -1,6 +1,7 @@
 ---
 title: "Time in DCU 🏫"
 page-layout: full
+image: "/about_me/DCU.jpg"
 theme:
   light: lux
 listing: 
