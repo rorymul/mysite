@@ -26,7 +26,7 @@ website:
 
 format:
   html:
-  css: ["styles.scss"]
+  css: ["style.scss"]
     theme:
       light: 
       - lux
