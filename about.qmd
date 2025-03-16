@@ -13,7 +13,7 @@ about:
       href: https://www.linkedin.com/in/rorymulhern/
     - icon: file-earmark-pdf
       text: CV
-      href: cv.qmd
+      href: Rory_Mulhern_CV.pdf
 listing: 
   contents: about_me/*
   type: grid
