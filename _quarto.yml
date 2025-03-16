@@ -13,7 +13,8 @@ website:
     title: false
     logo: images/favicon2.png
     left:
-      - href: index.qmd
+      - icon: house
+        href: index.qmd
         text: Home
       - icon: person-lines-fill
         href: about.qmd
@@ -21,7 +22,8 @@ website:
       - icon: journal-bookmark-fill
         href: projects.qmd
         text: Projects
-      - href: Media.qmd
+      - icon: camera-reels
+        href: Media.qmd
         text: Media
       - href: Untitled-1.qmd
         text: Quarto Test
