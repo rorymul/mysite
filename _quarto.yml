@@ -7,8 +7,8 @@ website:
   title: "Mysite"
   favicon: images/favicon2.png
   navbar:
+    fixed: true
     background: primary
-    sticky: true
     search: false
     title: false
     logo: images/favicon2.png
