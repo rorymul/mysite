@@ -5,7 +5,7 @@ page-layout: full
 theme:
   light: lux
 ---
-![](/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
+![](vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
 
 Participating in the Schlesinger Global Family Enterprise Case Competition (SG-FECC) was a defining moment in both my academic and personal development. It was my first time traveling to the United States, and the experience of competing at an international level not only challenged me but also provided invaluable insights into teamwork, strategic thinking, and professional growth.
 
