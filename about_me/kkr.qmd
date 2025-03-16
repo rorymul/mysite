@@ -6,11 +6,11 @@ theme:
   light: lux
 ---
 ## Reflecting on my Time at KKR
-My 15-month internship with KKR’s Credit Strategies Reporting / Client Reporting Team was a transformative experience that significantly shaped my professional growth and skill set. Coming into the role, I was initially nervous, but from day one, I was entrusted with responsibilities that made me feel like more than just an intern—I was a valued member of the team.
+My 15-month internship with KKR’s Credit Strategies Reporting / Client Reporting Team was an experience that significantly shaped my professional growth and skill set. Coming into the role, I was initially nervous, but from day one, I was entrusted with responsibilities that made me feel like more than just an intern, I was a valued member of the team.
 
 The experience allowed me to develop a strong analytical skillset, refine my ability to work with complex financial data, and gain exposure to the fast-paced world of Leveraged Credit. Whether it was crafting investment reports, automating data processes, or responding to investor queries, I was continuously challenged to think critically and improve operational efficiency.
 
-I am deeply grateful to Jennifer Corbett and Diarmaid Nash for giving me the opportunity to join the team and believing in my potential. Their decision to bring me on board has played a pivotal role in shaping my career trajectory. A special thank you to Harry Knowles and Anjali Singh, whose mentorship and guidance provided me with invaluable insights into the industry and helped me navigate my role with confidence.
+I am deeply grateful to Jennifer Corbett and Diarmaid Nash for giving me the opportunity to join the team and believing in my potential. Their decision to bring me on board has played a pivotal role in shaping my career trajectory, and to Harry Knowles and Anjali Singh, whose mentorship and guidance provided me with invaluable insights into the industry and helped me navigate my role with confidence.
 
 A defining aspect of my time at KKR was the firm’s culture, which is deeply rooted in the partnership and lifelong friendship of its founders, Henry Kravis and George Roberts. From day one, I experienced a level of inclusivity, respect, and camaraderie that made my internship truly special. Whether it was team outings like watching an Ireland soccer match, one-on-one coffee chats, or even the team coming out to support me at a charity boxing match, it was the people who made this experience so memorable.
 
@@ -20,7 +20,7 @@ Throughout my internship, I had the opportunity to work on a variety of projects
 
 •	Investment Reporting & Data Analysis
 
-•	Compiled detailed investment reports for Credit funds, utilizing multiple data sources to provide insights on performance and key metrics.
+•	Compiled detailed investment reports for Credit funds, utilising multiple data sources to provide insights on performance and key metrics.
 
 •	Demonstrated strong analytical acumen and meticulous attention to detail in presenting investment information to stakeholders.
 
@@ -36,13 +36,14 @@ Throughout my internship, I had the opportunity to work on a variety of projects
 
 •	Assisted in completing Leveraged Credit RFPs (Requests for Proposal) and DDQs (Due Diligence Questionnaires), ensuring timely and accurate responses to investor inquiries
 
-•	Created templates for fund performance data collection on Zephyr, facilitating a smooth transition from StyleAdvisor to a modern digital platform.
+•	Created templates for fund performance data collection on Zephyr, facilitating a smooth transition from StyleAdvisor to a modern digital platform
+
 •	Stakeholder Engagement & Problem-Solving
 
 •	Responded to ad hoc investor and internal queries, demonstrating adaptability and a solution-oriented mindset in addressing data-related challenges
 
 ## Looking Ahead
 
-Reflecting on this experience, I recognize how much I have grown professionally and personally. The exposure to complex financial reporting, automation tools, and investor relations has equipped me with invaluable skills that I will carry forward in my career. More importantly, the relationships I built and the collaborative team environment at KKR have left a lasting impact on me.
+Reflecting on this experience, I recognise how much I have grown professionally and personally. The exposure to complex financial reporting, automation tools, and investor relations has equipped me with invaluable skills that I will carry forward in my career. More importantly, the relationships I built and the collaborative team environment at KKR have left a lasting impact on me.
 
 As I move forward, I am excited to apply the knowledge and skills gained from this experience while continuing to develop as a finance professional. I look forward to staying connected with the incredible people I met along the way and seeing where the next chapter of my career takes me.
