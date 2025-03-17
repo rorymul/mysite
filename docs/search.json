@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "econometrics_model.html",
-    "href": "econometrics_model.html",
-    "title": "Econometrics",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Rory Mulhern",
     "section": "",
-    "text": "App for Project"
+    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\n\n\n\n\n\n\n\n\n\n\n\nTime at DCU 🏫\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at KKR 💼\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at Millstone 🥩\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Untitled-1.html",
@@ -14,39 +14,18 @@
     "text": "import numpy as np\nimport matplotlib.pyplot as plt\n\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n    subplot_kw = {'projection' : 'polar'}\n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
   },
   {
+    "objectID": "about_me/dcu.html",
+    "href": "about_me/dcu.html",
+    "title": "Time at DCU 🏫",
+    "section": "",
+    "text": "During my time at DCU, I have had the privilege of engaging in a diverse range of experiences that have shaped both my personal and professional growth. From competing on an international stage to taking on leadership roles within society committees, these opportunities have allowed me to develop valuable skills beyond the classroom.\nWhat made my time at DCU truly memorable was the combination of academic challenges and extracurricular involvement. Whether it was collaborating with peers on exciting projects, representing the university in competitions, or contributing to student societies, each experience has played a crucial role in broadening my perspective and enhancing my skill set.\nBelow, you will find a collection of the different opportunities I had the chance to be a part of. Feel free to explore and learn more about them.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIP Berlin, Germany 🇩🇪\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaising and Giving Society 💶\n\n\n\n\n\n\n\n\n\n\n\n\n\nSG-FECC Burlington, Vermont, USA 🇺🇸\n\n\n\n\n\n\n\n\n\n\n\nTeaching Tutorials 📚\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My ePortfolio 👋",
     "section": "",
     "text": "Here, you’ll find a collection of my academic projects, achievements, and experiences from the past 4 years. This space showcases my work, interests, and insights, offering a glimpse into my journey and aspirations. Feel free to explore, connect with me on LinkedIn, or reach out if you have any questions, I’m always happy to chat!"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects During College 💻",
-    "section": "",
-    "text": "Throughout my time in college, I have worked on a variety of assignments and projects that have challenged me to think critically, apply my knowledge in practical settings, and develop key problem-solving skills. These projects have spanned multiple disciplines, allowing me to gain hands-on experience, collaborate with peers, and refine my ability to research, analyse, and present findings effectively.\nFrom individual research papers to group-based projects, each assignment has contributed to my academic and professional development. Many of these tasks required not only technical expertise but also creativity, adaptability, and strong communication skills, qualities that will be invaluable as I move forward in my career.\nBelow, you’ll find a collection of the assignments and projects I have completed during my final year in college. Feel free to explore them to gain insight into the work I have done and the skills I have developed along the way.\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy 👔\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics 📈\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning and Advanced Python 🐍\n\n\n\n\n\n\n\n\n\n\n\n\n\nNED ☕️\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming and Visualisation 📊\n\n\n\n\n\n\n\n\n\n\n\nResponsible Management & Leadership for Sustainable Business 🌱\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "dcu.html",
-    "href": "dcu.html",
-    "title": "Time in DCU 🏫",
-    "section": "",
-    "text": "During my time at DCU, I have had the privilege of engaging in a diverse range of experiences that have shaped both my personal and professional growth. From competing on an international stage to taking on leadership roles within society committees, these opportunities have allowed me to develop valuable skills beyond the classroom.\nWhat made my time at DCU truly memorable was the combination of academic challenges and extracurricular involvement. Whether it was collaborating with peers on exciting projects, representing the university in competitions, or contributing to student societies, each experience has played a crucial role in broadening my perspective and enhancing my skill set.\nBelow, you will find a collection of the different opportunities I had the chance to be a part of. Feel free to explore and learn more about them.\n\n\n\n\n\n\n\n\n\n\n\n\nBIP Berlin, Germany 🇩🇪\n\n\n\n\n\n\n\n\n\n\n\nRaising and Giving Society 💶\n\n\n\n\n\n\n\n\n\n\n\nSG-FECC Burlington, Vermont, USA 🇺🇸\n\n\n\n\n\n\n\n\n\n\n\nTeaching Tutorials 📚\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Rory Mulhern",
-    "section": "",
-    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\n\n\n\n\n\n\n\n\n\n\n\nTime at DCU 🏫\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at KKR 💼\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at Millstone 🥩\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html#places-ive-worked-and-time-in-college",
-    "href": "about.html#places-ive-worked-and-time-in-college",
-    "title": "Rory Mulhern",
-    "section": "Places I’ve Worked and Time in College",
-    "text": "Places I’ve Worked and Time in College\n\n \n\nTime at DCU\n\n\n \n\nTime at KKR\n\n\n \n\nTime at Millstone"
   },
   {
     "objectID": "Projects/econometrics_model.html",
@@ -56,25 +35,11 @@
     "text": "App for Project"
   },
   {
-    "objectID": "Media.html",
-    "href": "Media.html",
-    "title": "Interesting Videos 🎥",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects During College 💻",
     "section": "",
-    "text": "Here are some videos I find interesting:\n\n \n\nWho Killed the ESG Party\n\n\n \n\nIs Recruitment Broken?\n\n\n \n\nFixing UK Stock Market"
-  },
-  {
-    "objectID": "about_me/dcu.html",
-    "href": "about_me/dcu.html",
-    "title": "Time at DCU 🏫",
-    "section": "",
-    "text": "During my time at DCU, I have had the privilege of engaging in a diverse range of experiences that have shaped both my personal and professional growth. From competing on an international stage to taking on leadership roles within society committees, these opportunities have allowed me to develop valuable skills beyond the classroom.\nWhat made my time at DCU truly memorable was the combination of academic challenges and extracurricular involvement. Whether it was collaborating with peers on exciting projects, representing the university in competitions, or contributing to student societies, each experience has played a crucial role in broadening my perspective and enhancing my skill set.\nBelow, you will find a collection of the different opportunities I had the chance to be a part of. Feel free to explore and learn more about them.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIP Berlin, Germany 🇩🇪\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaising and Giving Society 💶\n\n\n\n\n\n\n\n\n\n\n\n\n\nSG-FECC Burlington, Vermont, USA 🇺🇸\n\n\n\n\n\n\n\n\n\n\n\nTeaching Tutorials 📚\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about_me/dcu_list/vermont.html",
-    "href": "about_me/dcu_list/vermont.html",
-    "title": "SG-FECC Burlington, Vermont, USA 🇺🇸",
-    "section": "",
-    "text": "Participating in the Schlesinger Global Family Enterprise Case Competition (SG-FECC) was a defining moment in both my academic and personal development. It was my first time traveling to the United States, and the experience of competing at an international level not only challenged me but also provided invaluable insights into teamwork, strategic thinking, and professional growth.\nOur team represented Dublin City University (DCU) in the undergraduate Oak Division, where we competed against universities from around the world. Over three days, we tackled complex case studies, refining our ability to analyse real-world business challenges under pressure. Through collaboration, strategic discussions, and continuous adaptation, we achieved a perfect score (16 points out of 16) securing first place in our division.\nBeyond the competition itself, the experience was shaped by the people who supported us. Catherine Faherty and Eric Clinton played a crucial role in preparing us for success, providing mentorship, training, and invaluable guidance. Their dedication was instrumental in refining our approach and helping us perform at our best. Additionally, the support from Dublin City University enabled us to take part in this prestigious competition.\nWorking alongside my teammates, David, Sarah, and Evelyn, was one of the most rewarding aspects of this experience. From our initial practice cases to standing at the top of our division, we pushed each other to improve, supported one another in high-pressure moments, and developed a strong sense of camaraderie. The teamwork and problem-solving skills we honed throughout the competition will undoubtedly serve us well in our future careers.\nA special mention must also go to Aiden, who ensured we had everything we needed during our time in Burlington. His role as an ambassador made the experience smoother and more enjoyable, allowing us to focus on performing at our best.\nReflecting on this experience, I recognise how it has shaped my ability to think critically, work effectively in a team, and present solutions with confidence. The opportunity to compete internationally, engage with peers from different backgrounds, and apply my skills in a real-world setting was invaluable. I hope that future DCU students can continue to build on this success and benefit from this incredible learning experience.\nThis competition reinforced the importance of resilience, adaptability, and strategic decision-making, and I am eager to apply these lessons in future academic and professional endeavors. 🇺🇸🏆"
+    "text": "Throughout my time in college, I have worked on a variety of assignments and projects that have challenged me to think critically, apply my knowledge in practical settings, and develop key problem-solving skills. These projects have spanned multiple disciplines, allowing me to gain hands-on experience, collaborate with peers, and refine my ability to research, analyse, and present findings effectively.\nFrom individual research papers to group-based projects, each assignment has contributed to my academic and professional development. Many of these tasks required not only technical expertise but also creativity, adaptability, and strong communication skills, qualities that will be invaluable as I move forward in my career.\nBelow, you’ll find a collection of the assignments and projects I have completed during my final year in college. Feel free to explore them to gain insight into the work I have done and the skills I have developed along the way.\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy 👔\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics 📈\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning and Advanced Python 🐍\n\n\n\n\n\n\n\n\n\n\n\n\n\nNED ☕️\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming and Visualisation 📊\n\n\n\n\n\n\n\n\n\n\n\nResponsible Management & Leadership for Sustainable Business 🌱\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about_me/kkr.html",
@@ -110,5 +75,19 @@
     "title": "BIP Berlin, Germany 🇩🇪",
     "section": "",
     "text": "I had the incredible honour of representing Dublin City University at the BIP Berlin Entrepreneur Bootcamp, after being selected among 14 other final-year business school students—a distinction that filled me with pride and gratitude. This intensive, week-long program was hosted collaboratively by The Berlin School of Economics and Law, The Drivery innovation hub, and the Startup Incubator Berlin. The bootcamp united passionate students and aspiring entrepreneurs from three esteemed academic institutions: Metropolia University of Applied Sciences in Helsinki, The Berlin School of Economics and Law, and Dublin City University. This international collaboration provided a vibrant and dynamic atmosphere that encouraged innovation, cultural exchange, and entrepreneurial creativity.\n\nThroughout the bootcamp, I had the opportunity to collaborate closely with a talented, diverse, and highly motivated team of students from Finland and Germany. Together, we addressed pressing sustainability challenges faced by modern cities, exploring ways to foster meaningful and sustainable behavioural change among visitors to Berlin. Partnering directly with the sustainability-focused startup 2zero, our team developed an innovative, incentive-based reward system aimed at promoting eco-friendly practices among tourists. By combining creative problem-solving, user-centric design, and sustainable business models, we aimed to encourage tourists to choose environmentally responsible options during their visits.\n\nAs the project unfolded, I was privileged to take on the responsibility of presenting our solution to an esteemed panel of judges, mentors, and industry experts. After a competitive process, our idea was selected as the winning entry for the 2zero Sustainability Challenge. Achieving this recognition among many innovative projects validated our hard work and affirmed the potential positive impact of our solution in real-world contexts.\nAlthough our days were filled with collaborative discussions and team projects, we also had the opportunity to immerse ourselves in the city and experience its vibrant nightlife. These moments allowed us to build strong connections and foster lasting friendships with everyone involved.\nOverall, the BIP Berlin Entrepreneur Bootcamp was an unforgettable experience, equipping me with practical entrepreneurial skills, intercultural insights, and meaningful relationships that will undoubtedly serve me well in my future career. It reaffirmed my passion for entrepreneurship, sustainability, and international collaboration, marking a highlight of my academic journey."
+  },
+  {
+    "objectID": "about_me/dcu_list/vermont.html",
+    "href": "about_me/dcu_list/vermont.html",
+    "title": "SG-FECC Burlington, Vermont, USA 🇺🇸",
+    "section": "",
+    "text": "Participating in the Schlesinger Global Family Enterprise Case Competition (SG-FECC) was a defining moment in both my academic and personal development. It was my first time traveling to the United States, and the experience of competing at an international level not only challenged me but also provided invaluable insights into teamwork, strategic thinking, and professional growth.\nOur team represented Dublin City University (DCU) in the undergraduate Oak Division, where we competed against universities from around the world. Over three days, we tackled complex case studies, refining our ability to analyse real-world business challenges under pressure. Through collaboration, strategic discussions, and continuous adaptation, we achieved a perfect score (16 points out of 16) securing first place in our division.\nBeyond the competition itself, the experience was shaped by the people who supported us. Catherine Faherty and Eric Clinton played a crucial role in preparing us for success, providing mentorship, training, and invaluable guidance. Their dedication was instrumental in refining our approach and helping us perform at our best. Additionally, the support from Dublin City University enabled us to take part in this prestigious competition.\nWorking alongside my teammates, David, Sarah, and Evelyn, was one of the most rewarding aspects of this experience. From our initial practice cases to standing at the top of our division, we pushed each other to improve, supported one another in high-pressure moments, and developed a strong sense of camaraderie. The teamwork and problem-solving skills we honed throughout the competition will undoubtedly serve us well in our future careers.\nA special mention must also go to Aiden, who ensured we had everything we needed during our time in Burlington. His role as an ambassador made the experience smoother and more enjoyable, allowing us to focus on performing at our best.\nReflecting on this experience, I recognise how it has shaped my ability to think critically, work effectively in a team, and present solutions with confidence. The opportunity to compete internationally, engage with peers from different backgrounds, and apply my skills in a real-world setting was invaluable. I hope that future DCU students can continue to build on this success and benefit from this incredible learning experience.\nThis competition reinforced the importance of resilience, adaptability, and strategic decision-making, and I am eager to apply these lessons in future academic and professional endeavors. 🇺🇸🏆"
+  },
+  {
+    "objectID": "Media.html",
+    "href": "Media.html",
+    "title": "Interesting Videos 🎥",
+    "section": "",
+    "text": "Here are some videos I find interesting:\n\n \n\nWho Killed the ESG Party\n\n\n \n\nIs Recruitment Broken?\n\n\n \n\nFixing UK Stock Market"
   }
 ]
