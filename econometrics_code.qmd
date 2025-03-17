@@ -2,9 +2,11 @@
 title: "Econometrics Code for Simulation"
 theme:
   light: lux
-
+execute:
+  eval: true  # Ensures the code is executed
+format:
+  html: default
 jupyter: python3
-format: html
 ---
 
 
