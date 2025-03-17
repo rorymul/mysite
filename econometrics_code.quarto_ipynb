@@ -12,7 +12,7 @@
         "jupyter: python3\n",
         "---"
       ],
-      "id": "7cf58dd8"
+      "id": "87ad4b7e"
     },
     {
       "cell_type": "code",
@@ -156,7 +156,7 @@
         "# Run the simulation cell\n",
         "pension_fund_simulation()"
       ],
-      "id": "c21d012b",
+      "id": "b2fa65b7",
       "execution_count": null,
       "outputs": []
     },
@@ -252,7 +252,7 @@
         "    print(\"\\nFinal row from df:\")\n",
         "    print(df.tail(1).to_string(index=False))"
       ],
-      "id": "ea58f6e0",
+      "id": "7badd4bc",
       "execution_count": null,
       "outputs": []
     }

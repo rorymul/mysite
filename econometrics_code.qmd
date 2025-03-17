@@ -3,7 +3,7 @@ title: "Econometrics Code for Simulation"
 theme:
   light: lux
 
-jupyter: python3?
+jupyter: python3
 ---
 
 
