@@ -4,6 +4,7 @@ theme:
   light: lux
 
 jupyter: python3
+format: html
 ---
 
 
