@@ -6,7 +6,7 @@ theme:
   light: lux
 ---
 ## Reflecting on my Time at KKR
-![](team-kkr.jpeg){style="float: left; margin-right: 1rem; width: 40%;"}
+![](images/team-kkr.jpeg){style="float: left; margin-right: 1rem; width: 40%;"}
 
 My 15-month internship with KKR’s Credit Strategies Reporting / Client Reporting Team was an experience that significantly shaped my professional growth and skill set. Coming into the role, I was initially nervous, but from day one, I was entrusted with responsibilities that made me feel like more than just an intern, I was a valued member of the team.
 
