@@ -22,7 +22,7 @@ website:
       - icon: camera-reels
         href: Media.qmd
         text: Media
-      - href: econometrics_code.qmd
+      - href: Untitled-1.qmd
         text: Quarto Test
 
         
