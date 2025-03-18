@@ -132,7 +132,7 @@ window.Quarto = {
 <link rel="stylesheet" href="style.scss">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -173,23 +173,52 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Rory Mulhern</li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+ <span class="menu-text">berlin.qmd</span>
+  </li>
+        <li class="sidebar-item">
+ <span class="menu-text">rag.qmd</span>
+  </li>
+        <li class="sidebar-item">
+ <span class="menu-text">vermont.qmd</span>
+  </li>
+        <li class="sidebar-item">
+ <span class="menu-text">tutorials.qmd</span>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla column-page">
+<div class="quarto-about-jolla column-page-right">
   <img src="images/headshot.png" class="about-image
   round " style="height: 20em; width: 20em;">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Rory Mulhern</h1>
 </div>
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-right">
   </div>
-</header><main class="content column-page" id="quarto-document-content">
+</header><main class="content column-page-right" id="quarto-document-content">
 <p>I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.</p>
 <p>With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.</p>
 
@@ -235,30 +264,6 @@ Time at KKR 💼
 Time at Millstone 🥩
 </h5>
 </div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1742305517616">
-<a href="./about_me/dcu-listing.json" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1742305517620">
-<a href="./about_me/dcu.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1742305517391">
-<a href="./about_me/kkr.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1742305518701">
-<a href="./about_me/millstone.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
 </div>
 </a>
 </div>

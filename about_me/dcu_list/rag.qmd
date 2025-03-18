@@ -4,4 +4,14 @@ image: "/about_me/dcu_list/images/rag.png"
 page-layout: full
 theme:
   light: lux
+sidebar:
+    contents:
+      - href: berlin.qmd
+        text: "BIP Berlin, Germany 🇩🇪"
+      - href: rag.qmd
+        text: "RAG Society 💶"
+      - href: vermont.qmd
+        text: "SG-FECC Burlington 🇺🇸"
+      - href: tutorials.qmd
+        text: "Teaching Tutorials 📚"
 ---
