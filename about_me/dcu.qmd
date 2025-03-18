@@ -5,14 +5,14 @@ image: "/about_me/images/DCU.jpg"
 theme:
   light: lux
 
+navbar:
+sidebar: false
+
 listing: 
   contents: dcu_list/*
   type: grid
   fields: [title, image]
   grid-columns: 2
-
-navbar:
-sidebar: false
 ---
 
 During my time at DCU, I have had the privilege of engaging in a diverse range of experiences that have shaped both my personal and professional growth. From competing on an international stage to taking on leadership roles within society committees, these opportunities have allowed me to develop valuable skills beyond the classroom.
