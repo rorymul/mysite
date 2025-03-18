@@ -1,6 +1,7 @@
 ---
 title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
 image: "/about_me/dcu_list/images/SG-FECC.png"
+page-layout: full
 theme:
   light: lux
 sidebar:
