@@ -6,12 +6,13 @@ theme:
   light: lux
 sidebar:
     contents:
-    - href: berlin.qmd
-      text: "BIP Berlin, Germany 🇩🇪"
-    - href: rag.qmd
-      text: "Raising and Giving Society 💶"
-    - href: tutorials.qmd
-      text: "Teaching Tutorials 📚"
+      - href: berlin.qmd
+        text: "BIP Berlin, Germany 🇩🇪"
+      - href: rag.qmd
+        text: "Raising and Giving Society 💶"
+      - href: tutorials.qmd
+        text: "Teaching Tutorials 📚"
+
 ---
 ![](images/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
 

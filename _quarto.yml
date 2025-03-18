@@ -26,10 +26,12 @@ website:
         text: Quarto Test
   sidebar:
      contents:
-       - berlin.qmd
-       - rag.qmd
-       - vermont.qmd
-       - tutorials.qmd
+      - href: berlin.qmd
+        text: "BIP Berlin, Germany 🇩🇪"
+      - href: rag.qmd
+        text: "Raising and Giving Society 💶"
+      - href: tutorials.qmd
+        text: "Teaching Tutorials 📚"
 
         
 
