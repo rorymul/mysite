@@ -30,7 +30,7 @@ website:
         text: "BIP Berlin, Germany 🇩🇪"
       - href: /dcu_list/rag.qmd
         text: "RAG Society 💶"
-      - href: e/about_me/dcu_list/vermont.qmd
+      - href: /about_me/dcu_list/vermont.qmd
         text: "SG-FECC Burlington 🇺🇸"
       - href: /dcu_list/tutorials.qmd
         text: "Teaching Tutorials 📚"
