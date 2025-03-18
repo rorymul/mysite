@@ -1,6 +1,6 @@
 ---
 title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
-sidebar: !
+sidebar: 
   contents:
     - href: /about_me/dcu_list/berlin.qmd
       text: "BIP Berlin, Germany 🇩🇪"
