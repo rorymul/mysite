@@ -1,0 +1,6 @@
+---
+title: Projects
+---
+
+{{< lipsum 1 >}}
+{{< placeholder 400 400 >}}
