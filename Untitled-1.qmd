@@ -2,8 +2,7 @@
 title: "Quarto Test"
 theme:
   light: lux
-navbar:
-  sidebar: false
+sidebar: false
 jupyter: python3
 ---
 
