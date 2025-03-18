@@ -14,19 +14,6 @@ sidebar:
         text: "SG-FECC Burlington 🇺🇸"
       - href: tutorials.qmd
         text: "Teaching Tutorials 📚"
-hide_sidebar_items:
-  - href: business_strategy.qmd
-    text: "Business Strategy 👔"
-  - href: econometrics_model.qmd
-    text: "Econometrics 📈"
-  - href: pythonml.qmd
-    text: "ML & Python 🐍"
-  - href: NED.qmd
-    text: "NED ☕️"
-  - href: data_project.qmd
-    text: "Visualistion 📊"
-  - href: sustainability.qmd
-    text: "Sustainability 🌱"
 ---
 ![](images/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
 
