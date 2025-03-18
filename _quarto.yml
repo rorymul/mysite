@@ -26,13 +26,13 @@ website:
         text: Quarto Test
   sidebar:
      contents:
-      - href: /about_me/dcu_list/berlin.qmd
+      - href: https://rorymul.github.io/mysite/about_me/dcu_list/berlin.qmd
         text: "BIP Berlin, Germany 🇩🇪"
-      - href: /about_me/dcu_list/rag.qmd
+      - href: https://rorymul.github.io/mysite/about_me/dcu_list/rag.qmd
         text: "RAG Society 💶"
-      - href: /about_me/dcu_list/vermont.qmd
+      - href: https://rorymul.github.io/mysite/about_me/dcu_list/vermont.qmd
         text: "SG-FECC Burlington 🇺🇸"
-      - href: /about_me/dcu_list/tutorials.qmd
+      - href: https://rorymul.github.io/mysite/about_me/dcu_list/tutorials.qmd
         text: "Teaching Tutorials 📚"
       - href: business_strategy.qmd
         text: "Business Strategy 👔"
