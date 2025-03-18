@@ -12,7 +12,6 @@ image: "/about_me/dcu_list/images/SG-FECC.png"
 theme:
   light: lux
 
-navbar:
 sidebar:
   - href: berlin.qmd
     text: "BIP Berlin, Germany 🇩🇪"
