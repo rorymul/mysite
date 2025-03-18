@@ -5,10 +5,9 @@ theme:
   light: lux
 sidebar:
     contents:
-    - berlin.qmd
-    - rag.qmd
-    - vermont.qmd
-    - tutorials.qmd
+    - href: berlin.qmd
+    - href: rag.qmd
+    - href: tutorials.qmd
 ---
 ![](images/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
 
