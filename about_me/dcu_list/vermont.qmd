@@ -12,8 +12,6 @@ sidebar:
 image: "/about_me/dcu_list/images/SG-FECC.png"
 theme:
   light: lux
-
-
 ---
 ![](images/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
 

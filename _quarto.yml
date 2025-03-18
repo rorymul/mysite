@@ -26,13 +26,13 @@ website:
         text: Quarto Test
   sidebar:
      contents:
-      - href: berlin.qmd
+      - href: about_me/dcu_list/berlin.qmd
         text: "BIP Berlin, Germany 🇩🇪"
-      - href: rag.qmd
+      - href: about_me/dcu_list/rag.qmd
         text: "RAG Society 💶"
-      - href: vermont.qmd
+      - href: about_me/dcu_list/vermont.qmd
         text: "SG-FECC Burlington 🇺🇸"
-      - href: tutorials.qmd
+      - href: about_me/dcu_list/tutorials.qmd
         text: "Teaching Tutorials 📚"
       - href: business_strategy.qmd
         text: "Business Strategy 👔"
