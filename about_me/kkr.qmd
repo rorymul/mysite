@@ -5,7 +5,7 @@ page-layout: full
 theme:
   light: lux
 navbar:
-  sidebar: false
+sidebar: false
 ---
 ## Reflecting on my Time at KKR
 ![](images/team-kkr.jpeg){style="float: left; margin-right: 1rem; width: 40%;"}

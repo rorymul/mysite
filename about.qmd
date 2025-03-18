@@ -19,6 +19,7 @@ listing:
   type: grid
   fields: [title, image]
   grid-columns: 3
+navbar:
 sidebar: false
 ---
 

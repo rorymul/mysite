@@ -5,5 +5,5 @@ page-layout: full
 theme:
   light: lux
 navbar:
-  sidebar: false
+sidebar: false
 ---
