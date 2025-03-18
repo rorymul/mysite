@@ -14,15 +14,15 @@ theme:
 
 navbar:
 sidebar:
-     contents:
-      - href: berlin.qmd
-        text: "BIP Berlin, Germany 🇩🇪"
-      - href: rag.qmd
-        text: "RAG Society 💶"
-      - href: vermont.qmd
-        text: "SG-FECC Burlington 🇺🇸"
-      - href: tutorials.qmd
-        text: "Teaching Tutorials 📚"
+  contents:
+    - href: berlin.qmd
+      text: "BIP Berlin, Germany 🇩🇪"
+    - href: rag.qmd
+      text: "RAG Society 💶"
+    - href: vermont.qmd
+      text: "SG-FECC Burlington 🇺🇸"
+    - href: tutorials.qmd
+      text: "Teaching Tutorials 📚"
 
 ---
 ![](images/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
