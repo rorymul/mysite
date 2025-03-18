@@ -1,6 +1,6 @@
 ---
 title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
-sidebar: !!reset
+sidebar: !
   contents:
     - href: /about_me/dcu_list/berlin.qmd
       text: "BIP Berlin, Germany 🇩🇪"
@@ -8,6 +8,8 @@ sidebar: !!reset
       text: "RAG Society 💶"
     - href: /about_me/dcu_list/vermont.qmd
       text: "SG-FECC Burlington, USA 🇺🇸"
+    - href: /about_me/dcu_list/tutorials.qmd
+      text: "Teaching Tutorials 📚
 image: "/about_me/dcu_list/images/SG-FECC.png"
 theme:
   light: lux
