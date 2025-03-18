@@ -4,4 +4,6 @@ image: "/about_me/images/millstone.jpeg"
 page-layout: full
 theme:
   light: lux
+navbar:
+  sidebar: false
 ---

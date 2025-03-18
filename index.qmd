@@ -18,8 +18,8 @@ about:
 
 theme:
   light: lux
-
-
+navbar:
+  sidebar: false
 page-layout: full
 ---
 
