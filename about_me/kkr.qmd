@@ -4,6 +4,7 @@ image: "/about_me/images/kkr.jpg"
 page-layout: full
 theme:
   light: lux
+
 navbar:
 sidebar: false
 ---

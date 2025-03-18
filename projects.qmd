@@ -8,6 +8,7 @@ listing:
   type: grid
   fields: [title, image]
   grid-columns: 2
+
 navbar:
 sidebar: false
 ---
