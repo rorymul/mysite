@@ -1,10 +1,12 @@
 ---
 title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
+
+# Tell Quarto we want an HTML website layout, with a sidebar on this page
 format:
   html:
     theme:
       light: lux
-    # The sidebar will only appear on this page.
+    page-layout: sidebar  # <-- critical for showing the sidebar
     sidebar:
       nav:
         - text: "BIP Berlin, Germany 🇩🇪"
@@ -15,6 +17,7 @@ format:
           href: vermont.qmd
         - text: "Teaching Tutorials 📚"
           href: tutorials.qmd
+
 image: "/about_me/dcu_list/images/SG-FECC.png"
 ---
 ![](images/vermont.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
