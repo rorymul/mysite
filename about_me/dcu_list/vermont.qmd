@@ -1,6 +1,6 @@
 ---
 title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
-navbar:
+navbar: {}
 sidebar:
   contents:
     - href: berlin.qmd
