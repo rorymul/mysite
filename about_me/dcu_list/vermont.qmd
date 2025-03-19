@@ -1,8 +1,8 @@
 ---
 title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
-navbar: {}
+navbar:
 sidebar:
-  contents: {.sidebar}
+  contents:
     - href: berlin.qmd
       text: "BIP Berlin, Germany 🇩🇪"
     - href: rag.qmd
