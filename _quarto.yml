@@ -24,28 +24,6 @@ website:
         text: Media
       - href: Untitled-1.qmd
         text: Quarto Test
-  sidebar:
-     contents:
-      - href: /about_me/dcu_list/berlin.qmd
-        text: "BIP Berlin, Germany 🇩🇪"
-      - href: /dcu_list/rag.qmd
-        text: "RAG Society 💶"
-      - href: /about_me/dcu_list/vermont.qmd
-        text: "SG-FECC Burlington 🇺🇸"
-      - href: /dcu_list/tutorials.qmd
-        text: "Teaching Tutorials 📚"
-      - href: business_strategy.qmd
-        text: "Business Strategy 👔"
-      - href: econometrics_model.qmd
-        text: "Econometrics 📈"
-      - href: pythonml.qmd
-        text: "ML & Python 🐍"
-      - href: NED.qmd
-        text: "NED ☕️"
-      - href: data_project.qmd
-        text: "Visualistion 📊"
-      - href: sustainability.qmd
-        text: "Sustainability 🌍"
 
 
         
