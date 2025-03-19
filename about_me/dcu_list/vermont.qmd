@@ -5,7 +5,9 @@ format:
   html:
     theme:
       light: lux
-    page-layout:  # <-- critical for showing the sidebar
+    css:
+      - quarto-default 
+    page-layout: full
     sidebar:
       nav:
         - text: "BIP Berlin, Germany 🇩🇪"
