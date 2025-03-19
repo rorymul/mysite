@@ -1,12 +1,11 @@
 ---
-title: "SG-FECC Burlington, Vermont, USA 🇺🇸"
-
+title: "SG-FECC Burlington, Vermont USA 🇺🇸"
 # Tell Quarto we want an HTML website layout, with a sidebar on this page
 format:
   html:
     theme:
       light: lux
-    page-layout: sidebar  # <-- critical for showing the sidebar
+    page-layout:  # <-- critical for showing the sidebar
     sidebar:
       nav:
         - text: "BIP Berlin, Germany 🇩🇪"
