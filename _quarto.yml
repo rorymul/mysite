@@ -20,10 +20,11 @@ website:
         href: projects.qmd
         text: Projects
       - icon: camera-reels
-        href: Media.qmd
+        href: media.qmd
         text: Media
       - href: Untitled-1.qmd
         text: Quarto Test
+
 
 
 
