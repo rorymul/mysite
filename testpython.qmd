@@ -14,5 +14,5 @@ for x in range(1, 6):
 
 ```{pyodide}
 x = input():
-    print(x)
+print(x)
 ```
