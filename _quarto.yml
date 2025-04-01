@@ -24,6 +24,8 @@ website:
         text: Media
       - href: Untitled-1.qmd
         text: Quarto Test
+      - href: testpython.qmd
+        text: Python Test
 
 
 

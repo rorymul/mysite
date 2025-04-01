@@ -1,0 +1,13 @@
+---
+title: "Python Test"
+theme:
+  light: lux
+sidebar: false
+format: live-html
+engine: python3
+---
+
+```{pyodide}
+for x in range(1, 6):
+    print(x ** 2)
+```
