@@ -8,10 +8,8 @@ theme:
 Here are some videos I find interesting:
 
 '''{=html}
-<iframe href="https://www.youtube.com/watch?v=hMW_pT7w-Y8" width="500" height="400"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hMW_pT7w-Y8?si=ruUrd-zLgqWOymnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 '''
-
-
 
 
 <div class="video-grid">
