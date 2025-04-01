@@ -5,9 +5,6 @@ image: "/about_me/images/DCU.jpg"
 theme:
   light: lux
 
-navbar:
-sidebar: false
-
 listing: 
   contents: dcu_list/*
   type: grid
