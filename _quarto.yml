@@ -36,12 +36,7 @@ website:
         - projects/NED.qmd
         - projects/pythonml.qmd
         - projects/sustainability.qmd
-    - title: "About Me"
-      contents:
-        - about_me/berlin.qmd
-        - about_me/rag.qmd
-        - about_me/tutorials.qmd
-        - about_me/vermont.qmd
+
         
 
 format:
