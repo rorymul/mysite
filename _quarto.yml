@@ -19,8 +19,6 @@ website:
       - icon: journal-bookmark-fill
         href: projects.qmd
         text: Projects
-        menu:
-          - projects/econometrics_model.qmd
       - icon: camera-reels
         href: media.qmd
         text: Media
@@ -29,8 +27,11 @@ website:
       - href: testpython.qmd
         text: Python Test
 
-
-
+  sidebar:
+    - title: "Projects"
+      contents:
+        - projects/NED.qmd
+        - projects/pythonml.qmd
 
         
 
