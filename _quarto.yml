@@ -31,11 +31,17 @@ website:
     - title: "Projects"
       contents:
         - projects/business_strategy.qmd
+          text: Business Strategy
         - projects/data_project.qmd
+          text: Visualisation
         - projects/econometrics_model.qmd
+          text: Econometrics
         - projects/NED.qmd
+          text: NED
         - projects/pythonml.qmd
+          text: Python and ML
         - projects/sustainability.qmd
+          text: Sustainability
 
         
 

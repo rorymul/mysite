@@ -32,7 +32,10 @@
     "href": "projects/econometrics_model.html",
     "title": "Econometrics 📈",
     "section": "",
-    "text": "App for Project"
+    "text": "App for Project",
+    "crumbs": [
+      "Econometrics 📈"
+    ]
   },
   {
     "objectID": "projects.html",
