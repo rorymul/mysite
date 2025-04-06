@@ -1,11 +1,11 @@
 ---
 title: "Econometrics"
+subtitle: ECO1012 Econometrics & Forecasting
 image: "/Projects/econometrics_model.jpg"
 page-layout: full
 theme:
   light: lux
 ---
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDf8ospPUS8?si=-9uniY2R_A2Whrg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
