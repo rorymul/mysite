@@ -9,7 +9,7 @@ theme:
 <div class="video-grid">
   
   <a href="https://econometrics.streamlit.app" target="_blank" class="video-card">
-    <img src="steamlit.png" alt="Econometrics">
+    <img src="streamlit.png" alt="Econometrics">
     <div class="video-title">App for Project</div>
   </a>
 </div>
