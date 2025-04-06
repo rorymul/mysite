@@ -13,7 +13,7 @@ By blending frameworks from behavioural economics, such as “Save More Tomorrow
 Beyond theoretical exercises, the coding projects in this module mirror the demands of the finance industry: real-time data sourcing, complex model-building, and clear, evidence-based reporting. The Colab notebook I created validates CUAN’s higher returns compared to Ireland’s auto-enrolment system and showcases how effective coding practices, like iterative data cleaning and regression analysis, enhance both the precision and clarity of financial forecasts.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VDf8ospPUS8?si=-9uniY2R_A2Whrg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![]<iframe width="560" height="315" src="https://www.youtube.com/embed/VDf8ospPUS8?si=-9uniY2R_A2Whrg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="video-grid">
   
