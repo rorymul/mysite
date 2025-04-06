@@ -1,5 +1,5 @@
 ---
-title: "Econometrics 📈"
+title: "Econometrics"
 image: "/Projects/econometrics_model.jpg"
 page-layout: full
 theme:

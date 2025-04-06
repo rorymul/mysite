@@ -1,5 +1,5 @@
 ---
-title: "Programming and Visualisation 📊"
+title: "Coding and Visualisation"
 image: "/Projects/data_project.jpg.webp"
 page-layout: full
 theme:

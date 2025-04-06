@@ -1,5 +1,5 @@
 ---
-title: "Business Strategy 👔"
+title: "Business Strategy"
 page-layout: full
 theme:
   light: lux
