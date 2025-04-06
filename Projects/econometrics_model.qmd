@@ -6,6 +6,10 @@ theme:
   light: lux
 ---
 
-<iframe width="560" height="315" src="https://econometrics.streamlit.app/" frameborder="0"></iframe>
-
-https://econometrics.streamlit.app/
+<div class="video-grid">
+  
+  <a href="https://econometrics.streamlit.app" target="_blank" class="video-card">
+    <img src="econometrics_model.jpg" alt="Econometrics">
+    <div class="video-title">App for Project</div>
+  </a>
+</div>
