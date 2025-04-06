@@ -16,11 +16,11 @@ website:
       - icon: person-lines-fill
         href: about.qmd
         text: About Me
-      - menu:
-          icon: journal-bookmark-fill
-          href: projects.qmd
-          text: Projects
-         
+      - icon: journal-bookmark-fill
+        href: projects.qmd
+        text: Projects
+        menu:
+          - projects/econometrics_model.qmd
       - icon: camera-reels
         href: media.qmd
         text: Media
