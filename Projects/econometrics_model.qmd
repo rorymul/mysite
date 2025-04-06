@@ -6,6 +6,6 @@ theme:
   light: lux
 ---
 
-<iframe width="560" height="315" src="https://econometrics.streamlit.app/" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://econometrics.streamlit.app/" frameborder="0"></iframe>
 
 https://econometrics.streamlit.app/
