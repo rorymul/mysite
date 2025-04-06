@@ -19,6 +19,9 @@ website:
       - icon: journal-bookmark-fill
         href: projects.qmd
         text: Projects
+        menu:
+          - href: projects/econometrics_model.qmd
+            text: Econometrics
       - icon: camera-reels
         href: media.qmd
         text: Media
