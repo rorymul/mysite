@@ -18,6 +18,13 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/business_strategy.html",
+      "/projects/econometrics_model.html",
+      "/projects/pythonml.html",
+      "/projects/NED.html",
+      "/projects/data_project.html",
+      "/projects/sustainability.html"
+    ]
   }
 ]
