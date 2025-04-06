@@ -30,8 +30,12 @@ website:
   sidebar:
     - title: "Projects"
       contents:
+        - projects/business_strategy.qmd
+        - projects/data_project.qmd
+        - projects/econometrics_model.qmd
         - projects/NED.qmd
         - projects/pythonml.qmd
+        - projects/sustainability.qmd
 
         
 
