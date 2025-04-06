@@ -30,19 +30,12 @@ website:
   sidebar:
     - title: "Projects"
       contents:
-        - text: Business Strategy
-            projects/business_strategy.qmd
-          
+        - projects/business_strategy.qmd
         - projects/data_project.qmd
-          text: Visualisation
         - projects/econometrics_model.qmd
-          text: Econometrics
         - projects/NED.qmd
-          text: NED
         - projects/pythonml.qmd
-          text: Python and ML
         - projects/sustainability.qmd
-          text: Sustainability
 
         
 
