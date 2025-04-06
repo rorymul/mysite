@@ -30,8 +30,9 @@ website:
   sidebar:
     - title: "Projects"
       contents:
-        - projects/business_strategy.qmd
-          text: Business Strategy
+        - text: Business Strategy
+            projects/business_strategy.qmd
+          
         - projects/data_project.qmd
           text: Visualisation
         - projects/econometrics_model.qmd
