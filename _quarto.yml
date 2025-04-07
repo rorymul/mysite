@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 resources:
-  - Rory_Mulhern_CV.pdf
+  - CV.pdf
 website:
   title: "Mysite"
   favicon: images/favicon2.png
