@@ -1,6 +1,0 @@
----
-title: "Business Strategy"
-page-layout: full
-theme:
-  light: lux
----

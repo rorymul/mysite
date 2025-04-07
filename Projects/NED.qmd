@@ -1,7 +1,0 @@
----
-title: "New Enterprise Development"
-image: "/Projects/NED.png"
-page-layout: full
-theme:
-  light: lux
----
