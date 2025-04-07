@@ -1,0 +1,96 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Rory Mulhern",
+    "section": "",
+    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\n\n\n\n\n\n\n\n\n\n\n\nTime at DCU 🏫\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at KKR 💼\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at Millstone 🥩\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Untitled-1.html",
+    "href": "Untitled-1.html",
+    "title": "Quarto Test",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt\n\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n    subplot_kw = {'projection' : 'polar'}\n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "about_me/dcu.html",
+    "href": "about_me/dcu.html",
+    "title": "Time at DCU 🏫",
+    "section": "",
+    "text": "During my time at DCU, I have had the privilege of engaging in a diverse range of experiences that have shaped both my personal and professional growth. From competing on an international stage to taking on leadership roles within society committees, these opportunities have allowed me to develop valuable skills beyond the classroom.\nWhat made my time at DCU truly memorable was the combination of academic challenges and extracurricular involvement. Whether it was collaborating with peers on exciting projects, representing the university in competitions, or contributing to student societies, each experience has played a crucial role in broadening my perspective and enhancing my skill set.\nBelow, you will find a collection of the different opportunities I had the chance to be a part of. Feel free to explore and learn more about them.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIP Berlin, Germany 🇩🇪\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaising and Giving Society 💶\n\n\n\n\n\n\n\n\n\n\n\n\n\nSG-FECC Burlington, Vermont, USA 🇺🇸\n\n\n\n\n\n\n\n\n\n\n\nTeaching Tutorials 📚\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My ePortfolio 👋",
+    "section": "",
+    "text": "Here, you’ll find a collection of my academic projects, achievements, and experiences from the past 4 years. This space showcases my work, interests, and insights, offering a glimpse into my journey and aspirations. Feel free to explore, connect with me on LinkedIn, or reach out if you have any questions, I’m always happy to chat!"
+  },
+  {
+    "objectID": "projects/econometrics_model.html",
+    "href": "projects/econometrics_model.html",
+    "title": "Econometrics",
+    "section": "",
+    "text": "Throughout the Econometrics and Forecasting module, I have gained practical exposure to statistical analysis, regression modeling, and data-driven forecasting methods that are vital in modern finance. A core aspect of this coursework involves coding, particularly in Python, to clean and visualize datasets, build predictive models, and evaluate outcomes under various financial scenarios. These skills have proven invaluable in developing my individual project, “CUAN: Small Steps Today, Big Rewards Tomorrow,” where I applied these coding techniques to simulate pension contributions over a 45-year horizon.\nBy blending frameworks from behavioural economics, such as “Save More Tomorrow,” with the FIRE (Financial Independence, Retire Early) movement, the project demonstrates how data analytics and forecasting can illustrate the impact of systematic savings on retirement outcomes.\nBeyond theoretical exercises, the coding projects in this module mirror the demands of the finance industry: real-time data sourcing, complex model-building, and clear, evidence-based reporting. The Colab notebook I created validates CUAN’s higher returns compared to Ireland’s auto-enrolment system and showcases how effective coding practices, like iterative data cleaning and regression analysis, enhance both the precision and clarity of financial forecasts.\n\n\n\n \n\nApp for Project",
+    "crumbs": [
+      "Econometrics"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects During College 💻",
+    "section": "",
+    "text": "Throughout my time in college, I have worked on a variety of assignments and projects that have challenged me to think critically, apply my knowledge in practical settings, and develop key problem-solving skills. These projects have spanned multiple disciplines, allowing me to gain hands-on experience, collaborate with peers, and refine my ability to research, analyse, and present findings effectively.\nFrom individual research papers to group-based projects, each assignment has contributed to my academic and professional development. Many of these tasks required not only technical expertise but also creativity, adaptability, and strong communication skills, qualities that will be invaluable as I move forward in my career.\nBelow, you’ll find a collection of the assignments and projects I have completed during my final year in college. Feel free to explore them to gain insight into the work I have done and the skills I have developed along the way.\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoding and Visualisation\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics\n\n\n\n\n\n\n\n\n\n\n\nML and Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about_me/kkr.html",
+    "href": "about_me/kkr.html",
+    "title": "Time at KKR 💼",
+    "section": "",
+    "text": "My 15-month internship with KKR’s Credit Strategies Reporting / Client Reporting Team was an experience that significantly shaped my professional growth and skill set. Coming into the role, I was initially nervous, but from day one, I was entrusted with responsibilities that made me feel like more than just an intern, I was a valued member of the team.\nThe experience allowed me to develop a strong analytical skillset, refine my ability to work with complex financial data, and gain exposure to the fast-paced world of Leveraged Credit. Whether it was crafting investment reports, automating data processes, or responding to investor queries, I was continuously challenged to think critically and improve operational efficiency.\nI am deeply grateful to Jennifer Corbett and Diarmaid Nash for giving me the opportunity to join the team and believing in my potential. Their decision to bring me on board has played a pivotal role in shaping my career trajectory, and to Harry Knowles and Anjali Singh, whose mentorship and guidance provided me with invaluable insights into the industry and helped me navigate my role with confidence.\nA defining aspect of my time at KKR was the firm’s culture, which is deeply rooted in the partnership and lifelong friendship of its founders, Henry Kravis and George Roberts. From day one, I experienced a level of inclusivity, respect, and camaraderie that made my internship truly special. Whether it was team outings like watching an Ireland soccer match, one-on-one coffee chats, or even the team coming out to support me at a charity boxing match, it was the people who made this experience so memorable."
+  },
+  {
+    "objectID": "about_me/kkr.html#reflecting-on-my-time-at-kkr",
+    "href": "about_me/kkr.html#reflecting-on-my-time-at-kkr",
+    "title": "Time at KKR 💼",
+    "section": "",
+    "text": "My 15-month internship with KKR’s Credit Strategies Reporting / Client Reporting Team was an experience that significantly shaped my professional growth and skill set. Coming into the role, I was initially nervous, but from day one, I was entrusted with responsibilities that made me feel like more than just an intern, I was a valued member of the team.\nThe experience allowed me to develop a strong analytical skillset, refine my ability to work with complex financial data, and gain exposure to the fast-paced world of Leveraged Credit. Whether it was crafting investment reports, automating data processes, or responding to investor queries, I was continuously challenged to think critically and improve operational efficiency.\nI am deeply grateful to Jennifer Corbett and Diarmaid Nash for giving me the opportunity to join the team and believing in my potential. Their decision to bring me on board has played a pivotal role in shaping my career trajectory, and to Harry Knowles and Anjali Singh, whose mentorship and guidance provided me with invaluable insights into the industry and helped me navigate my role with confidence.\nA defining aspect of my time at KKR was the firm’s culture, which is deeply rooted in the partnership and lifelong friendship of its founders, Henry Kravis and George Roberts. From day one, I experienced a level of inclusivity, respect, and camaraderie that made my internship truly special. Whether it was team outings like watching an Ireland soccer match, one-on-one coffee chats, or even the team coming out to support me at a charity boxing match, it was the people who made this experience so memorable."
+  },
+  {
+    "objectID": "about_me/kkr.html#key-contributions-skills-developed",
+    "href": "about_me/kkr.html#key-contributions-skills-developed",
+    "title": "Time at KKR 💼",
+    "section": "Key Contributions & Skills Developed",
+    "text": "Key Contributions & Skills Developed\nThroughout my internship, I had the opportunity to work on a variety of projects that enhanced both my technical and analytical capabilities:\n• Investment Reporting & Data Analysis\n• Compiled detailed investment reports for Credit funds, utilising multiple data sources to provide insights on performance and key metrics.\n• Demonstrated strong analytical acumen and meticulous attention to detail in presenting investment information to stakeholders.\n• Process Automation & Efficiency Improvements\n• Developed automation techniques to streamline Excel-based data collection, significantly reducing reporting time.\n• Integrated UpSlide to enhance the transfer of data between Excel and reports, improving overall workflow efficiency.\n• Investor & Internal Reporting\n• Managed Credit Investment headcount queries and prepared comprehensive reports on investment personnel.\n• Assisted in completing Leveraged Credit RFPs (Requests for Proposal) and DDQs (Due Diligence Questionnaires), ensuring timely and accurate responses to investor inquiries\n• Created templates for fund performance data collection on Zephyr, facilitating a smooth transition from StyleAdvisor to a modern digital platform\n• Stakeholder Engagement & Problem-Solving\n• Responded to ad hoc investor and internal queries, demonstrating adaptability and a solution-oriented mindset in addressing data-related challenges"
+  },
+  {
+    "objectID": "about_me/kkr.html#looking-ahead",
+    "href": "about_me/kkr.html#looking-ahead",
+    "title": "Time at KKR 💼",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nReflecting on this experience, I recognise how much I have grown professionally and personally. The exposure to complex financial reporting, automation tools, and investor relations has equipped me with invaluable skills that I will carry forward in my career. More importantly, the relationships I built and the collaborative team environment at KKR have left a lasting impact on me.\nAs I move forward, I am excited to apply the knowledge and skills gained from this experience while continuing to develop as a finance professional. I look forward to staying connected with the incredible people I met along the way and seeing where the next chapter of my career takes me."
+  },
+  {
+    "objectID": "about_me/dcu_list/berlin.html",
+    "href": "about_me/dcu_list/berlin.html",
+    "title": "BIP Berlin, Germany 🇩🇪",
+    "section": "",
+    "text": "I had the incredible honour of representing Dublin City University at the BIP Berlin Entrepreneur Bootcamp, after being selected among 14 other final-year business school students—a distinction that filled me with pride and gratitude. This intensive, week-long program was hosted collaboratively by The Berlin School of Economics and Law, The Drivery innovation hub, and the Startup Incubator Berlin. The bootcamp united passionate students and aspiring entrepreneurs from three esteemed academic institutions: Metropolia University of Applied Sciences in Helsinki, The Berlin School of Economics and Law, and Dublin City University. This international collaboration provided a vibrant and dynamic atmosphere that encouraged innovation, cultural exchange, and entrepreneurial creativity.\n\nThroughout the bootcamp, I had the opportunity to collaborate closely with a talented, diverse, and highly motivated team of students from Finland and Germany. Together, we addressed pressing sustainability challenges faced by modern cities, exploring ways to foster meaningful and sustainable behavioural change among visitors to Berlin. Partnering directly with the sustainability-focused startup 2zero, our team developed an innovative, incentive-based reward system aimed at promoting eco-friendly practices among tourists. By combining creative problem-solving, user-centric design, and sustainable business models, we aimed to encourage tourists to choose environmentally responsible options during their visits.\n\nAs the project unfolded, I was privileged to take on the responsibility of presenting our solution to an esteemed panel of judges, mentors, and industry experts. After a competitive process, our idea was selected as the winning entry for the 2zero Sustainability Challenge. Achieving this recognition among many innovative projects validated our hard work and affirmed the potential positive impact of our solution in real-world contexts.\nAlthough our days were filled with collaborative discussions and team projects, we also had the opportunity to immerse ourselves in the city and experience its vibrant nightlife. These moments allowed us to build strong connections and foster lasting friendships with everyone involved.\nOverall, the BIP Berlin Entrepreneur Bootcamp was an unforgettable experience, equipping me with practical entrepreneurial skills, intercultural insights, and meaningful relationships that will undoubtedly serve me well in my future career. It reaffirmed my passion for entrepreneurship, sustainability, and international collaboration, marking a highlight of my academic journey."
+  },
+  {
+    "objectID": "about_me/dcu_list/vermont.html",
+    "href": "about_me/dcu_list/vermont.html",
+    "title": "SG-FECC Burlington, Vermont, USA 🇺🇸",
+    "section": "",
+    "text": "Participating in the Schlesinger Global Family Enterprise Case Competition (SG-FECC) was a defining moment in both my academic and personal development. It was my first time traveling to the United States, and the experience of competing at an international level not only challenged me but also provided invaluable insights into teamwork, strategic thinking, and professional growth.\nOur team represented Dublin City University (DCU) in the undergraduate Oak Division, where we competed against universities from around the world. Over three days, we tackled complex case studies, refining our ability to analyse real-world business challenges under pressure. Through collaboration, strategic discussions, and continuous adaptation, we achieved a perfect score (16 points out of 16) securing first place in our division.\nBeyond the competition itself, the experience was shaped by the people who supported us. Catherine Faherty and Eric Clinton played a crucial role in preparing us for success, providing mentorship, training, and invaluable guidance. Their dedication was instrumental in refining our approach and helping us perform at our best. Additionally, the support from Dublin City University enabled us to take part in this prestigious competition.\nWorking alongside my teammates, David, Sarah, and Evelyn, was one of the most rewarding aspects of this experience. From our initial practice cases to standing at the top of our division, we pushed each other to improve, supported one another in high-pressure moments, and developed a strong sense of camaraderie. The teamwork and problem-solving skills we honed throughout the competition will undoubtedly serve us well in our future careers.\nA special mention must also go to Aiden, who ensured we had everything we needed during our time in Burlington. His role as an ambassador made the experience smoother and more enjoyable, allowing us to focus on performing at our best.\nReflecting on this experience, I recognise how it has shaped my ability to think critically, work effectively in a team, and present solutions with confidence. The opportunity to compete internationally, engage with peers from different backgrounds, and apply my skills in a real-world setting was invaluable. I hope that future DCU students can continue to build on this success and benefit from this incredible learning experience.\nThis competition reinforced the importance of resilience, adaptability, and strategic decision-making, and I am eager to apply these lessons in future academic and professional endeavors. 🇺🇸🏆"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Interesting Videos 🎥",
+    "section": "",
+    "text": "Here are some videos I find interesting:\n\n\n\n\n\n\n\n \n\nWho Killed the ESG Party\n\n\n \n\nIs Recruitment Broken?\n\n\n \n\nFixing UK Stock Market"
+  }
+]
