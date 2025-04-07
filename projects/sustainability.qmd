@@ -1,0 +1,6 @@
+---
+title: "Sustainability"
+page-layout: full
+theme:
+  light: lux
+---

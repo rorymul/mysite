@@ -1,0 +1,6 @@
+---
+title: "ML and Advanced Python"
+page-layout: full
+theme:
+  light: lux
+---
