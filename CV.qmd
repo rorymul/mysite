@@ -1,0 +1,8 @@
+---
+title: "My CV"
+page-layout: full
+theme:
+  light: lux
+---
+
+<iframe width="100%" height="600px" src=CV.pdf> </iframe>
