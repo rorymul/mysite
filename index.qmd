@@ -14,7 +14,7 @@ about:
     - icon: envelope
       href: mailto:mulhernrory9gmail.com
     - icon: file-earmark-person
-      href: CV.pdf
+      href: CV.qmd
 
 theme:
   light: lux
