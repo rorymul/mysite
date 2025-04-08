@@ -1,9 +1,6 @@
 project:
   type: website
   output-dir: docs
-resources:
-  - CV.pdf
-  - "projects/EconomicsAssigmentv2.pdf"
 website:
   title: "Mysite"
   favicon: images/favicon2.png
