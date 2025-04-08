@@ -1,0 +1,29 @@
+---
+title: "Stock Tracker"
+format: dashboard
+---
+
+## Row
+
+```{python}
+#| component: valuebox
+#| title: "Current Price"
+dict(icon = "currency-dollar",
+     color = "secondary",
+     value = get_price(data))
+```
+
+```{python}
+#| component: valuebox
+#| title: "Change"
+change = get_change(data)
+dict(value = change['amount'],
+     icon = change['icon'],
+     color = change['color']) 
+```
+
+```{python}
+#| tags: [parameters]
+ticker = "BA"
+```
+

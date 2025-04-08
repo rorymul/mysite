@@ -24,6 +24,8 @@ website:
         text: Quarto Test
       - href: testpython.qmd
         text: Python Test
+      - href: dashboard.qmd
+        text: Dashboard Test
 
   sidebar:
     - title: "Projects"
