@@ -1,10 +1,13 @@
 [
   {
-    "listing": "/about.html",
+    "listing": "/projects.html",
     "items": [
-      "/about_me/dcu.html",
-      "/about_me/kkr.html",
-      "/about_me/millstone.html"
+      "/projects/business_strategy.html",
+      "/projects/data_project.html",
+      "/projects/econometrics_model.html",
+      "/projects/pythonml.html",
+      "/projects/NED.html",
+      "/projects/sustainability.html"
     ]
   },
   {
@@ -17,14 +20,11 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/about.html",
     "items": [
-      "/projects/business_strategy.html",
-      "/projects/data_project.html",
-      "/projects/econometrics_model.html",
-      "/projects/pythonml.html",
-      "/projects/NED.html",
-      "/projects/sustainability.html"
+      "/about_me/dcu.html",
+      "/about_me/kkr.html",
+      "/about_me/millstone.html"
     ]
   }
 ]
