@@ -3,7 +3,7 @@ title: "Stock Explorer"
 author: "Ty Coon"
 format: 
   dashboard:
-    theme: [lux, custom.scss]
+    theme: [lux]
 
 # author: garretgman accessed 17th April 2025
 # https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd
