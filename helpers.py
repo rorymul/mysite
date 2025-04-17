@@ -1,9 +1,33 @@
 # helpers.py
 
+import time
+import requests_cache
 import yfinance as yf
 import pandas as pd
 import cufflinks as cf
 
+# —————————————————————————————
+# 1) cache every HTTP call for 15 minutes
+requests_cache.install_cache("yf_cache", expire_after=900)
+
+# 2) throttle yf.Ticker.info so it sleeps 1 s after any real fetch
+_orig_info = yf.Ticker.info.fget
+def _throttled_info(self):
+    data = _orig_info(self)
+    time.sleep(1)
+    return data
+yf.Ticker.info = property(_throttled_info)
+# —————————————————————————————
+
+# ticker -> stock
+def get_stock(ticker):
+    return yf.Ticker(ticker.upper())
+
+# stock -> data
+def get_data(stock, period = "1y"):
+    return stock.history(period = period)
+
+# …the rest of your helpers unchanged…
 # ticker -> stock
 def get_stock(ticker):
     return yf.Ticker(ticker.upper())
