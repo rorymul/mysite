@@ -5,3 +5,15 @@ page-layout: full
 theme:
   light: lux
 ---
+
+Final year marked my final RAG Rumble, and what a journey it has been!
+
+Being part of the group that revived this event three years ago has been one of the most rewarding experiences of my time at DCU. More importantly, it has been an opportunity to raise money for incredible causes like Irish Cancer Society, Irish Motor Neurone Disease Association and Acquired Brain Injury Ireland.
+
+![](images/rumble.jpeg){style="float: right; margin-left: 1rem; width: 40%;"}
+
+I’ve taken on nearly every role in this event, helping to organise it, stepping into the ring (with an impeccable, I must say, 0-2 record 🥊), and even presenting last week (apologies to anyone subjected to my terrible jokes). But beyond all that, RAG Rumble pushed me out of my comfort zone and allowed me to do something truly meaningful: helping those in need.
+
+Looking back on the first event, we weren’t sure if we’d sell out. We worried about the ring not arriving, picturing a chaotic backyard-style fight. Fast-forward to today and RAG Rumble has become one of the biggest events in DCU, selling out 300+ tickets and running like a professional show. The growth over the past three years has been incredible.
+
+While I’m going to miss it, I truly hope this tradition lives on for years to come. In the last three years, we’ve raised over €20,000 for charity, an achievement that wouldn’t have been possible without the incredible Raising & Giving Society team, our amazing supporters, NuBar for their sponsorship, and Dublin City University for giving us the platform to make it all happen.
