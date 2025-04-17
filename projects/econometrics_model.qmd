@@ -1,7 +1,7 @@
 ---
 title: "Econometrics"
 subtitle: ECO1012 Econometrics & Forecasting
-image: "/projects/econometrics_model.jpg"
+image: "/projects/images/econometrics_model.jpg"
 page-layout: full
 theme:
   light: lux
@@ -17,13 +17,13 @@ Beyond theoretical exercises, the coding projects in this module mirror the dema
 
 
 # My Individual Assignment
-<iframe width="100%" height="1000" src=EconomicsAssignmentv2.pdf> </iframe>
+<iframe width="100%" height="1000" src=pdfs/EconomicsAssignmentv2.pdf> </iframe>
 
 
 <div class="video-grid">
   
   <a href="https://econometrics.streamlit.app" target="_blank" class="video-card">
-    <img src="streamlit.png" alt="Econometrics">
+    <img src="images/streamlit.png" alt="Econometrics">
     <div class="video-title">App for Project</div>
   </a>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Business Strategy"
 subtitle: "BAA1019 Business Strategy"
-image: "/projects/Kerrygold.jpeg"
+image: "/projects/images/Kerrygold.jpeg"
 page-layout: full
 theme:
   light: lux
@@ -11,13 +11,13 @@ This module was looking at theorectical frameworks that are used in the job of m
 When it came to our group project we did this on Ornua, with a specfic focus on Kerrygold. Which we had an 80% on the report and a 78% on the presentation. You can see the presentation and the report below:
 
 # Presentation
-<iframe width="100%" height="1000" src=BS14_Presentation.pdf> </iframe>
+<iframe width="100%" height="1000" src=pdfs/BS14_Presentation.pdf> </iframe>
 
 # Report
-<iframe width="100%" height="1000" src=Report_BS14.pdf> </iframe>
+<iframe width="100%" height="1000" src=pdfs/Report_BS14.pdf> </iframe>
 
 
 
 # Case Study
 The Case study was a 3 week open book exam look at the strategic issue in Hitachi. You can see below:
-<iframe width="100%" height="1000" src=Case.pdf> </iframe>
+<iframe width="100%" height="1000" src=pdfs/Case.pdf> </iframe>
