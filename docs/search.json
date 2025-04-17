@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "media.html",
-    "href": "media.html",
-    "title": "Interesting Videos 🎥",
-    "section": "",
-    "text": "Here are some videos I find interesting:\n\n\n\n\n\n\n\n \n\nWho Killed the ESG Party\n\n\n \n\nIs Recruitment Broken?\n\n\n \n\nFixing UK Stock Market"
-  },
-  {
     "objectID": "about_me/dcu_list/vermont.html",
     "href": "about_me/dcu_list/vermont.html",
     "title": "SG-FECC Burlington, Vermont, USA 🇺🇸",
@@ -53,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects During College 💻",
     "section": "",
-    "text": "Throughout my time in college, I have worked on a variety of assignments and projects that have challenged me to think critically, apply my knowledge in practical settings, and develop key problem-solving skills. These projects have spanned multiple disciplines, allowing me to gain hands-on experience, collaborate with peers, and refine my ability to research, analyse, and present findings effectively.\nFrom individual research papers to group-based projects, each assignment has contributed to my academic and professional development. Many of these tasks required not only technical expertise but also creativity, adaptability, and strong communication skills, qualities that will be invaluable as I move forward in my career.\nBelow, you’ll find a collection of the assignments and projects I have completed during my final year in college. Feel free to explore them to gain insight into the work I have done and the skills I have developed along the way.\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoding and Visualisation\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics\n\n\n\n\n\n\n\n\n\n\n\nML and Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Throughout my time in college, I have worked on a variety of assignments and projects that have challenged me to think critically, apply my knowledge in practical settings, and develop key problem-solving skills. These projects have spanned multiple disciplines, allowing me to gain hands-on experience, collaborate with peers, and refine my ability to research, analyse, and present findings effectively.\nFrom individual research papers to group-based projects, each assignment has contributed to my academic and professional development. Many of these tasks required not only technical expertise but also creativity, adaptability, and strong communication skills, qualities that will be invaluable as I move forward in my career.\nBelow, you’ll find a collection of the assignments and projects I have completed during my final year in college. Feel free to explore them to gain insight into the work I have done and the skills I have developed along the way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoding and Visualisation\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconometrics\n\n\n\n\n\n\n\n\n\n\n\nML and Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/NED.html",
@@ -73,6 +66,16 @@
     "text": "This module was looking at theorectical frameworks that are used in the job of management consultants. It was split into two seperate aspects, the first was a group project with a report worth 35% and a presentation on it worth 15%. While the second aspect was an indivdual case study assignment on Hitachi worth 50%.\nWhen it came to our group project we did this on Ornua, with a specfic focus on Kerrygold. Which we had an 80% on the report and a 78% on the presentation. You can see the presentation and the report below:\n\nPresentation\n\n\n\n\nReport\n\n\n\n\nCase Study\nThe Case study was a 3 week open book exam look at the strategic issue in Hitachi. You can see below:",
     "crumbs": [
       "Business Strategy"
+    ]
+  },
+  {
+    "objectID": "projects/data_project.html",
+    "href": "projects/data_project.html",
+    "title": "Coding and Visualisation",
+    "section": "",
+    "text": "The programming and visualisation module taught the basics of Python, SQL and Power BI. The module was split into two exams, one in Python and one in SQL, along with a group presentation for the Power BI portion. When it came to the SQL exam I scored in the high 90s and the high 70s for the Python exam. The Power BI group project was marked as an average of everyone, where my group was marked at a 70. The overall score I got for this module was 78, which was a very first class honours.",
+    "crumbs": [
+      "Coding and Visualisation"
     ]
   },
   {
@@ -111,6 +114,6 @@
     "href": "about.html",
     "title": "Rory Mulhern",
     "section": "",
-    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\n\n\n\n\n\n\n\n\n\n\n\nTime at DCU 🏫\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at KKR 💼\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at Millstone 🥩\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills.\nWith certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.I’m a final-year business student at Dublin City University, specialising in analytics. My hands-on exposure to credit analysis and investment reporting at KKR provided real-world insight into high-level finance and client interactions. Elected by peers as their representative for three consecutive years, I’ve developed strong leadership, communication, and team-building skills. With certifications in SQL, Python, and financial modeling, I blend analytical rigour with a people-focused approach. Upon graduation, I look forward to leveraging both my technical and interpersonal strengths in a dynamic environment within the finance industry.\n\n\n\n\n\n\n\n\n\n\n\n\nTime at DCU 🏫\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at KKR 💼\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime at Millstone 🥩\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

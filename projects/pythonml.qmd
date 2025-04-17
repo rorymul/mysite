@@ -4,4 +4,10 @@ subtitle: "BAA1027 Machine Learning and Advanced Python"
 page-layout: full
 theme:
   light: lux
+
+listing: 
+  contents: pythonvF/*
+  type: grid
+  fields: [title]
+  grid-columns: 1
 ---
