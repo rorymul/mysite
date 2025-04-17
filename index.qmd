@@ -13,8 +13,6 @@ about:
       href: https://www.linkedin.com/in/rorymulhern
     - icon: envelope
       href: mailto:mulhernrory9gmail.com
-
-
 theme:
   light: lux
 page-layout: full
