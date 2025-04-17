@@ -1,21 +1,11 @@
 ---
 title: "Stock Explorer"
 author: "Ty Coon"
+logo: logo.png
 format: 
   dashboard:
-    theme: [lux]
-execute:
-  kernel: mysite-venv
-
-# author: garretgman accessed 17th April 2025
-# https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd
+    theme: [yeti, style.scss]
 ---
-```{python}
-#| echo: false
-import sys, os
-print("▶ Python exe:", sys.executable)
-print("▶ Packages:", "yfinance" in sys.modules or "yfinance" in sys.path)
-```
 
 ```{python}
 #| tags: [parameters]
@@ -23,7 +13,7 @@ print("▶ Packages:", "yfinance" in sys.modules or "yfinance" in sys.path)
 # to render w/ a different ticker parameter:
 # quarto render dashboard.qmd -P ticker:GOOG
 
-ticker = "KKR"
+ticker = "BA"
 ```
 
 ```{python}
@@ -104,3 +94,5 @@ ohlc = helpers.make_OHLC_table(data)
 : {.striped}
 
 :::
+
+

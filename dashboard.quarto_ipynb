@@ -7,17 +7,13 @@
         "---\n",
         "title: \"Stock Explorer\"\n",
         "author: \"Ty Coon\"\n",
+        "logo: logo.png\n",
         "format: \n",
         "  dashboard:\n",
-        "    theme: [lux]\n",
-        "execute:\n",
-        "  kernel: mysite-venv\n",
-        "\n",
-        "# author: garretgman accessed 17th April 2025\n",
-        "# https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd\n",
+        "    theme: [yeti, custom.scss]\n",
         "---"
       ],
-      "id": "6c47e8ca"
+      "id": "72921a7a"
     },
     {
       "cell_type": "code",
@@ -30,9 +26,9 @@
         "# to render w/ a different ticker parameter:\n",
         "# quarto render dashboard.qmd -P ticker:GOOG\n",
         "\n",
-        "ticker = \"KKR\""
+        "ticker = \"BA\""
       ],
-      "id": "7c466faf",
+      "id": "0faf34d5",
       "execution_count": null,
       "outputs": []
     },
@@ -44,7 +40,7 @@
         "stock = helpers.get_stock(ticker)\n",
         "data = helpers.get_data(stock)"
       ],
-      "id": "fb5593f1",
+      "id": "1d7196ee",
       "execution_count": null,
       "outputs": []
     },
@@ -54,7 +50,7 @@
       "source": [
         "## Row\n"
       ],
-      "id": "39a04855"
+      "id": "24709fac"
     },
     {
       "cell_type": "code",
@@ -64,7 +60,7 @@
         "Markdown(\"**{symbol}** --- {longName} --- [{website}]({website})\"\n",
         "    .format(**stock.info))"
       ],
-      "id": "25218718",
+      "id": "9c90e513",
       "execution_count": null,
       "outputs": []
     },
@@ -74,7 +70,7 @@
       "source": [
         "## Row\n"
       ],
-      "id": "556719a8"
+      "id": "7d3b7970"
     },
     {
       "cell_type": "code",
@@ -89,7 +85,7 @@
         "    value = helpers.get_price(data)\n",
         ")"
       ],
-      "id": "4f8f2d7a",
+      "id": "12d23638",
       "execution_count": null,
       "outputs": []
     },
@@ -107,7 +103,7 @@
         "    color = change['color']\n",
         ") "
       ],
-      "id": "8920b262",
+      "id": "0bd899f6",
       "execution_count": null,
       "outputs": []
     },
@@ -124,7 +120,7 @@
         "    value = change['percent'],\n",
         ") "
       ],
-      "id": "6b9df8dd",
+      "id": "139464ae",
       "execution_count": null,
       "outputs": []
     },
@@ -136,7 +132,7 @@
         "\n",
         "### Column {width=75%}\n"
       ],
-      "id": "32a296db"
+      "id": "004f83b2"
     },
     {
       "cell_type": "code",
@@ -147,7 +143,7 @@
       "source": [
         "helpers.make_candlestick_chart(data, ticker.upper())"
       ],
-      "id": "64ef5ece",
+      "id": "6cd52a38",
       "execution_count": null,
       "outputs": []
     },
@@ -157,7 +153,7 @@
       "source": [
         "### Column {width=25%}\n"
       ],
-      "id": "8d750421"
+      "id": "a34aa246"
     },
     {
       "cell_type": "code",
@@ -165,7 +161,7 @@
       "source": [
         "ohlc = helpers.make_OHLC_table(data)"
       ],
-      "id": "f4f2852d",
+      "id": "1b3c35f4",
       "execution_count": null,
       "outputs": []
     },
@@ -185,17 +181,17 @@
         "| Volume | `{python} ohlc['volume']` |\n",
         ": {.striped}\n",
         "\n",
-        ":::"
+        ":::\n"
       ],
-      "id": "b9e57b9b"
+      "id": "745d0684"
     }
   ],
   "metadata": {
     "kernelspec": {
-      "name": "python3",
+      "name": "mysite-venv",
       "language": "python",
-      "display_name": "Python 3 (ipykernel)",
-      "path": "/Users/mulhr/mysite-1/.venv/share/jupyter/kernels/python3"
+      "display_name": "mysite-venv",
+      "path": "/Users/mulhr/Library/Jupyter/kernels/mysite-venv"
     }
   },
   "nbformat": 4,
