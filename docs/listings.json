@@ -1,0 +1,37 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/business_strategy.html",
+      "/projects/data_project.html",
+      "/projects/econometrics_model.html",
+      "/projects/pythonml.html",
+      "/projects/python/pythonvF.html",
+      "/projects/NED.html",
+      "/projects/sustainability.html"
+    ]
+  },
+  {
+    "listing": "/projects/pythonml.html",
+    "items": [
+      "/projects/python/pythonvF.html"
+    ]
+  },
+  {
+    "listing": "/about_me/dcu.html",
+    "items": [
+      "/about_me/dcu_list/berlin.html",
+      "/about_me/dcu_list/rag.html",
+      "/about_me/dcu_list/vermont.html",
+      "/about_me/dcu_list/tutorials.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about_me/dcu.html",
+      "/about_me/kkr.html",
+      "/about_me/millstone.html"
+    ]
+  }
+]

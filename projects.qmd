@@ -4,7 +4,7 @@ page-layout: full
 theme:
   light: lux
 listing: 
-  contents: projects
+  contents: projects/*
   type: grid
   fields: [title, image]
   grid-columns: 2
