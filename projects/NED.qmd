@@ -6,6 +6,7 @@ page-layout: full
 theme:
   light: lux
 ---
+During the NED module we had to create a business, with multiple assignments finishing in a dragon's den style pitch. The assignments from my group which was "Revive Grounds", a sustainable skincare scrub made from repurposed coffee grounds can be seen below:
 
 # Concept Paper
 <iframe width="100%" height="1000" src=pdfs/Concept.pdf> </iframe>
