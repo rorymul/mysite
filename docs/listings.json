@@ -1,12 +1,11 @@
 [
   {
-    "listing": "/projects.html",
+    "listing": "/about_me/dcu.html",
     "items": [
-      "/projects/business_strategy.html",
-      "/projects/data_project.html",
-      "/projects/econometrics_model.html",
-      "/projects/pythonml.html",
-      "/projects/NED.html"
+      "/about_me/dcu_list/berlin.html",
+      "/about_me/dcu_list/rag.html",
+      "/about_me/dcu_list/vermont.html",
+      "/about_me/dcu_list/tutorials.html"
     ]
   },
   {
@@ -16,12 +15,13 @@
     ]
   },
   {
-    "listing": "/about_me/dcu.html",
+    "listing": "/projects.html",
     "items": [
-      "/about_me/dcu_list/berlin.html",
-      "/about_me/dcu_list/rag.html",
-      "/about_me/dcu_list/vermont.html",
-      "/about_me/dcu_list/tutorials.html"
+      "/projects/business_strategy.html",
+      "/projects/data_project.html",
+      "/projects/econometrics_model.html",
+      "/projects/pythonml.html",
+      "/projects/NED.html"
     ]
   },
   {
