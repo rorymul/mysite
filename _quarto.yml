@@ -23,6 +23,9 @@ website:
       - href: Untitled-1.qmd
         text: Quarto Test
       - icon: file-earmark-person
+        href: stock.qmd
+        text: Stock Tracker
+      - icon: graph-up
         href: CV.qmd
         text: My CV
 
