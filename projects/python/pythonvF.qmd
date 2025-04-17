@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Reflective Essay"
+title: "Machine Learning Reflective Essay Code"
 theme:
   light: lux
 sidebar: false
