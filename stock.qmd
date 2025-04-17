@@ -8,6 +8,23 @@ format:
 # author: garretgman accessed 17th April 2025
 # https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd
 ---
+```{python}
+#| echo: false
+import time
+import requests_cache
+import yfinance as yf
+
+# 1) Cache every HTTP request for 15 minutes
+requests_cache.install_cache("yf_cache", expire_after=900)
+
+# 2) Monkey‑patch Ticker.info so it always sleeps 1 s after fetching
+_orig_info = yf.Ticker.info.fget
+def _throttled_info(self):
+    data = _orig_info(self)
+    time.sleep(1)
+    return data
+yf.Ticker.info = property(_throttled_info)
+```
 
 ```{python}
 #| tags: [parameters]
