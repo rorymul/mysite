@@ -12,4 +12,4 @@ The programming and visualisation module taught the basics of Python, SQL and Po
 ![](sumdashboard.png){style="float: width: 100%;"}
 
 ## State Impact
-![](images/state.png){style="float: width: 100%;"}
+![](state.png){style="float: width: 100%;"}
