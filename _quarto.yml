@@ -20,8 +20,6 @@ website:
       - icon: camera-reels
         href: media.qmd
         text: Media
-      - href: Untitled-1.qmd
-        text: Quarto Test
       - icon: file-earmark-person
         href: CV.qmd
         text: My CV
