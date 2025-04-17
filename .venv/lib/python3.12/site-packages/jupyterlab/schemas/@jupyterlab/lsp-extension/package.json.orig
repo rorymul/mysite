@@ -1,6 +1,6 @@
 {
   "name": "@jupyterlab/lsp-extension",
-  "version": "4.4.0",
+  "version": "4.0.7",
   "description": "",
   "homepage": "https://github.com/jupyterlab/jupyterlab",
   "bugs": {
@@ -36,22 +36,21 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/application": "^4.4.0",
-    "@jupyterlab/apputils": "^4.5.0",
-    "@jupyterlab/lsp": "^4.4.0",
-    "@jupyterlab/running": "^4.4.0",
-    "@jupyterlab/settingregistry": "^4.4.0",
-    "@jupyterlab/translation": "^4.4.0",
-    "@jupyterlab/ui-components": "^4.4.0",
-    "@lumino/coreutils": "^2.2.1",
-    "@lumino/polling": "^2.1.4",
-    "@lumino/signaling": "^2.1.4",
-    "@rjsf/utils": "^5.13.4",
+    "@jupyterlab/application": "^4.0.7",
+    "@jupyterlab/lsp": "^4.0.7",
+    "@jupyterlab/running": "^4.0.7",
+    "@jupyterlab/settingregistry": "^4.0.7",
+    "@jupyterlab/translation": "^4.0.7",
+    "@jupyterlab/ui-components": "^4.0.7",
+    "@lumino/coreutils": "^2.1.2",
+    "@lumino/polling": "^2.1.2",
+    "@lumino/signaling": "^2.1.2",
+    "@rjsf/utils": "^5.1.0",
     "react": "^18.2.0"
   },
   "devDependencies": {
-    "rimraf": "~5.0.5",
-    "typescript": "~5.5.4"
+    "rimraf": "~3.0.0",
+    "typescript": "~5.0.4"
   },
   "publishConfig": {
     "access": "public"

@@ -828,7 +828,7 @@ class ChunkedWithContentLengthTest(AsyncHTTPTestCase):
         with ExpectLog(
             gen_log,
             (
-                "Malformed HTTP message from None: Message "
+                "Malformed HTTP message from None: Response "
                 "with both Transfer-Encoding and Content-Length"
             ),
             level=logging.INFO,

@@ -49,14 +49,9 @@
       "selector": ".jp-mod-searchable"
     },
     {
-      "command": "documentsearch:toggleSearchInSelection",
-      "keys": ["Alt L"],
-      "selector": ".jp-mod-search-active"
-    },
-    {
       "command": "documentsearch:end",
       "keys": ["Escape"],
-      "selector": ".jp-mod-search-active"
+      "selector": ".jp-mod-searchable"
     }
   ],
   "properties": {
@@ -66,13 +61,6 @@
       "type": "number",
       "default": 500,
       "minimum": 0
-    },
-    "autoSearchInSelection": {
-      "title": "Search in selection automatically",
-      "description": "When starting search, the 'search in selection' mode will be enabled if `any` text/cell is selected, or when `multiple` lines or cells are selected, or `never`.",
-      "type": "string",
-      "enum": ["never", "multiple-selected", "any-selected"],
-      "default": "never"
     }
   },
   "additionalProperties": false,
