@@ -5,9 +5,6 @@ format:
   dashboard:
     theme: [lux]
 
-execute:
-  kernel: mysite-venv
-
 # author: garretgman accessed 17th April 2025
 # https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd
 ---
