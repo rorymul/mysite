@@ -4,6 +4,8 @@ author: "Ty Coon"
 format: 
   dashboard:
     theme: [lux]
+execute:
+  python: .venv/bin/python
 
 # author: garretgman accessed 17th April 2025
 # https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd
