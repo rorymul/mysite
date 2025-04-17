@@ -1,6 +1,6 @@
 ---
 title: "Coding and Visualisation"
-image: "/Projects/data_project.jpg.webp"
+image: "/projects/data_project.jpg.webp"
 page-layout: full
 theme:
   light: lux
