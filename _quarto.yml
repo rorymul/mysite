@@ -34,12 +34,6 @@ website:
         - projects/NED.qmd
         - projects/pythonml.qmd
         - projects/sustainability.qmd
-    - title: "dcu_list"
-      contents:
-        - dcu_list/berlin.qmd
-        - dcu_list/rag.qmd
-        - dcu_list/tutorials.qmd
-        - dcu_list/vermont.qmd     
 
         
 
