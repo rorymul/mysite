@@ -1,5 +1,5 @@
 ---
-title: "Raising and Giving Society 💶"
+title: "Raising and Giving Society, RAG Rumble 🥊💶"
 image: "/about_me/dcu_list/images/rag.png"
 page-layout: full
 theme:
