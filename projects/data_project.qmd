@@ -9,7 +9,7 @@ theme:
 The programming and visualisation module taught the basics of Python, SQL and Power BI. The module was split into two exams, one in Python and one in SQL, along with a group presentation for the Power BI portion. When it came to the SQL exam I scored in the high 90s and the high 70s for the Python exam. The Power BI group project was marked as an average of everyone, where my group was marked at a 70. The overall score I got for this module was 78, which was a very first class honours. The two pages I created on Power BI can be seen below:
 
 ## Executive Summary
-<iframe width="100%" height="100%" src=sumdashboard.png> </iframe>
+<iframe width="900" height="300" src=sumdashboard.png> </iframe>
 
 ## State Impact
-<iframe width="100%" height="100%" src=state.png> </iframe>
+<iframe width="9000" height="300" src=state.png> </iframe>
