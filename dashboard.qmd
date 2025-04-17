@@ -13,7 +13,7 @@ format:
 # to render w/ a different ticker parameter:
 # quarto render dashboard.qmd -P ticker:GOOG
 
-ticker = "BA"
+ticker = "CRH"
 ```
 
 ```{python}
