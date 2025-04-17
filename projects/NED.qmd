@@ -1,5 +1,6 @@
 ---
 title: "New Enterprise Development"
+subtitle: "BAA1003 New Enterprise Development Project"
 image: "/projects/NED.png"
 page-layout: full
 theme:
@@ -7,13 +8,13 @@ theme:
 ---
 
 # Concept Paper
-<iframe width="100%" height="1000" src=Concept.pdf> </iframe>
+<iframe width="100%" height="100%" src=Concept.pdf> </iframe>
 
 # Feasibilty Study
-<iframe width="100%" height="1000" src=Feasibility.pdf> </iframe>
+<iframe width="100%" height="100%" src=Feasibility.pdf> </iframe>
 
 # Marketing Strategy
-<iframe width="100%" height="1000" src=Marketing.pdf> </iframe>
+<iframe width="100%" height="100%" src=Marketing.pdf> </iframe>
 
 # Marketing Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FSC_wcsHxuY?si=DCndLkZiLqfelfnS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

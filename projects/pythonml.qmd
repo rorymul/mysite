@@ -1,5 +1,6 @@
 ---
 title: "ML and Advanced Python"
+subtitle: "BAA1027 Machine Learning and Advanced Python"
 page-layout: full
 theme:
   light: lux
