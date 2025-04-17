@@ -15,7 +15,8 @@ When it came to our group project we did this on Ornua, with a specfic focus on 
 # Report
 <iframe width="100%" height="1000" src=Report_BS14.pdf> </iframe>
 
-The Case study was a 3 week open book exam look at the strategic issue in Hitachi. You can see below:
+
 
 # Case Study
+The Case study was a 3 week open book exam look at the strategic issue in Hitachi. You can see below:
 <iframe width="100%" height="1000" src=Case.pdf> </iframe>

@@ -13,8 +13,7 @@ about:
       href: https://www.linkedin.com/in/rorymulhern
     - icon: envelope
       href: mailto:mulhernrory9gmail.com
-    - icon: file-earmark-person
-      href: CV.qmd
+
 
 theme:
   light: lux
