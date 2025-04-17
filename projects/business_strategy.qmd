@@ -1,6 +1,7 @@
 ---
 title: "Business Strategy"
 subtitle: "BAA1019 Business Strategy"
+image: "/projects/Kerrygold.jpeg"
 page-layout: full
 theme:
   light: lux
