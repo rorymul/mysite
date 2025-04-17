@@ -1,1 +1,5 @@
 /.quarto/
+env/
+*.html
+*_files/
+*.pyc
