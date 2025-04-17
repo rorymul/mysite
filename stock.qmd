@@ -24,7 +24,13 @@ data = helpers.get_data(stock)
 ```
 
 
+## Row
 
+```{python}
+from IPython.display import Markdown
+Markdown("**{symbol}** --- {longName} --- [{website}]({website})"
+    .format(**stock.info))
+```
 
 ## Row
 

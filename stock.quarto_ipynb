@@ -15,31 +15,7 @@
         "# https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd\n",
         "---"
       ],
-      "id": "bd03911e"
-    },
-    {
-      "cell_type": "code",
-      "metadata": {},
-      "source": [
-        "#| echo: false\n",
-        "import time\n",
-        "import requests_cache\n",
-        "import yfinance as yf\n",
-        "\n",
-        "# 1) Cache every HTTP request for 15 minutes\n",
-        "requests_cache.install_cache(\"yf_cache\", expire_after=900)\n",
-        "\n",
-        "# 2) Monkey‑patch Ticker.info so it always sleeps 1 s after fetching\n",
-        "_orig_info = yf.Ticker.info.fget\n",
-        "def _throttled_info(self):\n",
-        "    data = _orig_info(self)\n",
-        "    time.sleep(1)\n",
-        "    return data\n",
-        "yf.Ticker.info = property(_throttled_info)"
-      ],
-      "id": "5b3d4fc5",
-      "execution_count": null,
-      "outputs": []
+      "id": "ea228cf8"
     },
     {
       "cell_type": "code",
@@ -54,7 +30,7 @@
         "\n",
         "ticker = \"KKR\""
       ],
-      "id": "3a075268",
+      "id": "27d06d52",
       "execution_count": null,
       "outputs": []
     },
@@ -66,7 +42,7 @@
         "stock = helpers.get_stock(ticker)\n",
         "data = helpers.get_data(stock)"
       ],
-      "id": "11572f75",
+      "id": "2dadd347",
       "execution_count": null,
       "outputs": []
     },
@@ -76,27 +52,7 @@
       "source": [
         "## Row\n"
       ],
-      "id": "afc5c03e"
-    },
-    {
-      "cell_type": "code",
-      "metadata": {},
-      "source": [
-        "from IPython.display import Markdown\n",
-        "Markdown(\"**{symbol}** --- {longName} --- [{website}]({website})\"\n",
-        "    .format(**stock.info))"
-      ],
-      "id": "006ceaeb",
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {},
-      "source": [
-        "## Row\n"
-      ],
-      "id": "739ab844"
+      "id": "d421dea7"
     },
     {
       "cell_type": "code",
@@ -111,7 +67,7 @@
         "    value = helpers.get_price(data)\n",
         ")"
       ],
-      "id": "ca3e652a",
+      "id": "43f89437",
       "execution_count": null,
       "outputs": []
     },
@@ -129,7 +85,7 @@
         "    color = change['color']\n",
         ") "
       ],
-      "id": "b44d2089",
+      "id": "ccf92e46",
       "execution_count": null,
       "outputs": []
     },
@@ -146,7 +102,7 @@
         "    value = change['percent'],\n",
         ") "
       ],
-      "id": "e2e23686",
+      "id": "39657834",
       "execution_count": null,
       "outputs": []
     },
@@ -158,7 +114,7 @@
         "\n",
         "### Column {width=75%}\n"
       ],
-      "id": "2fbaaf8e"
+      "id": "e621eef3"
     },
     {
       "cell_type": "code",
@@ -169,7 +125,7 @@
       "source": [
         "helpers.make_candlestick_chart(data, ticker.upper())"
       ],
-      "id": "f5cb3155",
+      "id": "3ccaa1b8",
       "execution_count": null,
       "outputs": []
     },
@@ -179,7 +135,7 @@
       "source": [
         "### Column {width=25%}\n"
       ],
-      "id": "46cc8757"
+      "id": "8be54d85"
     },
     {
       "cell_type": "code",
@@ -187,7 +143,7 @@
       "source": [
         "ohlc = helpers.make_OHLC_table(data)"
       ],
-      "id": "907be5d0",
+      "id": "757735ff",
       "execution_count": null,
       "outputs": []
     },
@@ -209,7 +165,7 @@
         "\n",
         ":::"
       ],
-      "id": "87f48bff"
+      "id": "f5277c59"
     }
   ],
   "metadata": {
