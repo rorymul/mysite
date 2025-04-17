@@ -1,0 +1,201 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Stock Explorer\"\n",
+        "author: \"Ty Coon\"\n",
+        "format: \n",
+        "  dashboard:\n",
+        "    theme: [lux, custom.scss]\n",
+        "\n",
+        "# author: garretgman accessed 17th April 2025\n",
+        "# https://github.com/jjallaire/stock-explorer-dashboard/blob/main/dashboard.qmd\n",
+        "---"
+      ],
+      "id": "abe86506"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "tags": [
+          "parameters"
+        ]
+      },
+      "source": [
+        "# to render w/ a different ticker parameter:\n",
+        "# quarto render dashboard.qmd -P ticker:GOOG\n",
+        "\n",
+        "ticker = \"KKR\""
+      ],
+      "id": "4e89f9cd",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import helpers\n",
+        "stock = helpers.get_stock(ticker)\n",
+        "data = helpers.get_data(stock)"
+      ],
+      "id": "849b75bf",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Row\n"
+      ],
+      "id": "351e7469"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "from IPython.display import Markdown\n",
+        "Markdown(\"**{symbol}** --- {longName} --- [{website}]({website})\"\n",
+        "    .format(**stock.info))"
+      ],
+      "id": "e3654b1e",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Row\n"
+      ],
+      "id": "a3229091"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "content": "valuebox",
+        "title": "Current Price"
+      },
+      "source": [
+        "dict(\n",
+        "    icon = \"currency-dollar\",\n",
+        "    color = \"secondary\",\n",
+        "    value = helpers.get_price(data)\n",
+        ")"
+      ],
+      "id": "dd0da10e",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "content": "valuebox",
+        "title": "Change"
+      },
+      "source": [
+        "change = helpers.get_change(data)\n",
+        "dict(\n",
+        "    value = change['amount'],\n",
+        "    icon = change['icon'],\n",
+        "    color = change['color']\n",
+        ") "
+      ],
+      "id": "4879c481",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "content": "valuebox",
+        "title": "Percent Change"
+      },
+      "source": [
+        "dict(\n",
+        "    icon = \"percent\",\n",
+        "    color = \"light\",\n",
+        "    value = change['percent'],\n",
+        ") "
+      ],
+      "id": "5edb93d9",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Row\n",
+        "\n",
+        "### Column {width=75%}\n"
+      ],
+      "id": "e91464ad"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "title": "Price History",
+        "padding": 0
+      },
+      "source": [
+        "helpers.make_candlestick_chart(data, ticker.upper())"
+      ],
+      "id": "e510829f",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "### Column {width=25%}\n"
+      ],
+      "id": "0745be57"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "ohlc = helpers.make_OHLC_table(data)"
+      ],
+      "id": "7f2ff7f0",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "::: {.card}\n",
+        "\n",
+        "#### Last Close: `{python} ohlc['date']`\n",
+        "\n",
+        "| Close\t | `{python} ohlc['close']`  |\n",
+        "|:-------|--------------------------:|\n",
+        "| Open\t | `{python} ohlc['open']`   |\n",
+        "| High\t | `{python} ohlc['high']`   |\n",
+        "| Low\t | `{python} ohlc['low']`    |\n",
+        "| Volume | `{python} ohlc['volume']` |\n",
+        ": {.striped}\n",
+        "\n",
+        ":::"
+      ],
+      "id": "c552a2f7"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/opt/anaconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
