@@ -7,7 +7,7 @@ listing:
   contents: projects/*
   type: grid
   fields: [title, image]
-  grid-columns: 2
+  grid-columns: 5
 ---
 
 Throughout my time in college, I have worked on a variety of assignments and projects that have challenged me to think critically, apply my knowledge in practical settings, and develop key problem-solving skills. These projects have spanned multiple disciplines, allowing me to gain hands-on experience, collaborate with peers, and refine my ability to research, analyse, and present findings effectively.
