@@ -10,6 +10,8 @@ Throughout the Econometrics and Forecasting module, I have gained practical expo
 
 By blending frameworks from behavioural economics, such as “Save More Tomorrow,” with the FIRE (Financial Independence, Retire Early) movement, the project demonstrates how data analytics and forecasting can illustrate the impact of systematic savings on retirement outcomes. 
 
+[![](images/streamlit.png){style="float: left; margin-right: 1rem; width: 50%;"}](https://econometrics.streamlit.app)
+
 Beyond theoretical exercises, the coding projects in this module mirror the demands of the finance industry: real-time data sourcing, complex model-building, and clear, evidence-based reporting. The Colab notebook I created validates CUAN’s higher returns compared to Ireland’s auto-enrolment system and showcases how effective coding practices, like iterative data cleaning and regression analysis, enhance both the precision and clarity of financial forecasts.
 
 # Our Group Video
@@ -18,12 +20,3 @@ Beyond theoretical exercises, the coding projects in this module mirror the dema
 
 # My Individual Assignment
 <iframe width="100%" height="1000" src=pdfs/EconomicsAssignmentv2.pdf> </iframe>
-
-
-<div class="video-grid">
-  
-  <a href="https://econometrics.streamlit.app" target="_blank" class="video-card">
-    <img src="images/streamlit.png" alt="Econometrics">
-    <div class="video-title">App for Project</div>
-  </a>
-</div>
