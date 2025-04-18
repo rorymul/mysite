@@ -19,5 +19,6 @@ When it came to our group project we did this on Ornua, with a specfic focus on 
 
 
 # Case Study
-The Case study was a 3 week open book exam look at the strategic issue in Hitachi. You can see below:
+The Case study was a three week long open book exam looking at strategic issue in Hitachi, where had to answer three seperate questions. You can see my answers below:
+
 <iframe width="100%" height="1000" src=pdfs/Case.pdf> </iframe>
