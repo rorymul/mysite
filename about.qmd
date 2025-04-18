@@ -11,6 +11,9 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/rorymulhern/
+    - icon: file-earmark-person
+      text: My CV
+      href: https://drive.google.com/file/d/1wI5IuDYVeoxfMwKMTVJSwDiGUa4j20Cv/view?usp=share_link
 listing: 
   contents: about_me/*
   type: grid

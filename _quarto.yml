@@ -21,7 +21,7 @@ website:
         href: media.qmd
         text: Media
       - icon: file-earmark-person
-        href: CV.qmd
+        href: https://drive.google.com/file/d/1wI5IuDYVeoxfMwKMTVJSwDiGUa4j20Cv/view?usp=share_link
         text: My CV
 
 
