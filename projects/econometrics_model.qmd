@@ -17,7 +17,7 @@ Beyond theoretical exercises, the coding projects in this module mirror the dema
 # Our Group App and Pitch Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDf8ospPUS8?si=-9uniY2R_A2Whrg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[![](images/streamlit.png){style="float: left; margin-right: 1rem; width: 50%;"}](https://econometrics.streamlit.app)
+[![](images/streamlit.png){width: 50%;"}](https://econometrics.streamlit.app)
 
 ###### Click Streamlit logo to view the app
 
