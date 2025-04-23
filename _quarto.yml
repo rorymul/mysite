@@ -44,8 +44,7 @@ format:
       - style.scss
     mainfont: Afacad Flux
     page-layout: full
-    css: 
-      - styles.css
+    css:
       - style.scss
     toc: false
 
