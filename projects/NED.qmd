@@ -24,4 +24,4 @@ During the NED module we had to create a business, with multiple assignments fin
 <iframe width="100%" height="600" src=pdfs/denslides.pdf> </iframe>
 
 # Business Plan
-<iframe width="100%" height="1000" src=pdfs/EconomicsAssignmentv2.pdf> </iframe>
+<iframe width="100%" height="1000" src=pdfs/busplan.pdf> </iframe>
